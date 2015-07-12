@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Elvis Saravia
 locale:           en_US
 url:              
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Elvis Saravia
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Researcher soon to be a first-time dad"
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: ibelmopan  
+  facebook: 
   google:
     plus: #username
     analytics: 
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: omarsar
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
