@@ -14,7 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 1em 0 0em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -310,7 +310,7 @@ $button-size: 1.5rem;
 	}
 	img {
 		width: 100%;
-		height: auto;
+		height: 100px;
 		-ms-interpolation-mode: bicubic;
 	}
 	.headline-wrap {
