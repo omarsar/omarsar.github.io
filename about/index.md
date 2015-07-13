@@ -6,8 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: webdevmeetup.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: iBelmopan
+  creditlink: http://www.ibelmopan.com/
 ---
 
 I am a current Researcher and technology enthusiast. More about me coming soon.
