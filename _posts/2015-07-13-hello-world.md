@@ -8,4 +8,4 @@ excerpt: "Just saying hi!"
 tags: []
 ---
 
-Hello Beatiful world! Lot of cool content coming soon!
+Hello Beatiful world! Lots of cool content coming soon! Startup tips, life tips, tutorials, research content and just about anything that makes this world a better place.

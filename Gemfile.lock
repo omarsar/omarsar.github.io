@@ -92,4 +92,4 @@ DEPENDENCIES
   octopress (~> 3.0.0.rc.12)
 
 BUNDLED WITH
-   1.10.0.pre.2
+   1.10.2
