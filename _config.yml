@@ -2,7 +2,7 @@
 
 title:            Elvis Saravia
 locale:           en_US
-url:              
+url:              http://elvissaravia.com
 
 
 # Jekyll configuration
@@ -33,8 +33,8 @@ owner:
   disqus-shortname: elvissaravia
   twitter: ibelmopan  
   facebook: 
-  google:
-    plus: #username
+  google: 
+    plus: OmarSar27
     analytics: 
     verify: 
     ad-client: 

@@ -24,3 +24,7 @@ image:
 - Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [to appear](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
 
 - Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [to appear](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
+
+##Side Projects:
+- 2015 (Founder) [Kuai List](http://www.kuailist.com) 
+- 2010 to present (Founder) [iBelmopan](http://www.ibelmopan.com)
