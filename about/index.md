@@ -11,11 +11,14 @@ image:
 ---
 
 ##Research Interests
-
+- Natural Language Processing
+- Text Mining
+- Data Mining
 - Emotion Classification
 - Sentiment Analysis
 - Event Detection
 - User Interests Identification
+- Data Analytics
 - Data Visualization
 
 ##Publications
@@ -25,6 +28,23 @@ image:
 
 - Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [to appear](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
 
-##Side Projects:
-- 2015 (Founder) [Kuai List](http://www.kuailist.com) 
+##Skills
+- **Web Development**: Django, Ruby on Rails, D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
+- **Research Tools**: Python, Ruby, C/C++, Java, Amazon Mechanical Turk and Tableau
+- **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
+
+
+
+##Communities
+- 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
+- 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
+
+
+##Side Projects
+- 2015 to present (Founder) [Kuai List](http://www.kuailist.com) 
+- 2015 to present [NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [iBelmopan](http://www.ibelmopan.com)
+
+
+
+

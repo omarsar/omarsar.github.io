@@ -2,7 +2,7 @@
 
 title:            Elvis Saravia
 locale:           en_US
-url:              http://elvissaravia.com
+url:              #http://elvissaravia.com
 
 
 # Jekyll configuration
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Elvis Saravia
   avatar: avatar-new.jpg
-  bio: "Researcher soon to be a first-time dad"
-  email: 
+  bio: "Researcher, Web Developer, Blogger, Open-Source advocate and soon to be first-time dad."
+  email: ellfae@gmail.com
   disqus-shortname: elvissaravia
   twitter: ibelmopan  
   facebook: 
