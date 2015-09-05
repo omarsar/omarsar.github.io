@@ -38,10 +38,13 @@ image:
 - **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
 
 ##Awards and Honors
-- 2013 TaiwanICDF Scholarship [On the News](http://bit.ly/1g0xbiE )
-- 2014 International Development Cooperation Student Paper Competition ([Papers selected for Conference](http://bit.ly/1g0wUfJ))
-- 2015 Academia Sinica Scholarship
 - 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
+- 2015 Academia Sinica Scholarship
+- 2014 International Development Cooperation Student Paper Competition ([Papers selected for Conference](http://bit.ly/1g0wUfJ))
+- 2013 TaiwanICDF Scholarship [On the News](http://bit.ly/1g0xbiE )
+
+
+
 
 ##Communities
 - 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
