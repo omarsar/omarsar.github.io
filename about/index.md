@@ -21,11 +21,13 @@ image:
 - Data Visualization
 
 ##Publications
-- Shao-Chen Wu, Elvis Omar Saravia, Yi-Shin Chen, **Identify Implicit User Interests on Social Networks**, WOCC 2015 (The 24th and Optical Communication Conference), Taipei, Taiwan - [to appear](http://www.wocc.org/wocc2015/)
+- Shao-Chen Wu, Elvis Saravia, Yi-Shin Chen, **Identify Implicit User Interests on Social Networks**, WOCC 2015 (The 24th and Optical Communication Conference), Taipei, Taiwan - [to appear](http://www.wocc.org/wocc2015/)
 
-- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
+- Elvis Saravia, Yi-Shin Chen, **Inferring User Interests from Microblog Data through Opinion Mining**, National Tsing Hua University 2015 (Master Thesis) - [more info](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi/ccd=RO6QLP/record?r1=1&h1=1)
 
-- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
+- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [more info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
+
+- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [more info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
 
 - Chen, Yi-Shin, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. **"Concept-based event identification from social streams using evolving social graph sequences."** Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [read](http://link.springer.com/article/10.1007%2Fs13278-015-0269-x)
 
