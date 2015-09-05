@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Elvis Saravia
+title:            Elvis Saravia - From an academic point of view
 locale:           en_US
 url:              #http://elvissaravia.com
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Elvis Saravia
   avatar: avatar-new.jpg
-  bio: "Researcher, Web Developer, Blogger, Open-Source advocate and a proud first-time dad."
+  bio: "Doctoral Researcher, Web Developer, Founder, Designer, Blogger, Open-Source advocate and a proud first-time dad."
   email: ellfae@gmail.com
   disqus-shortname: elvissaravia
   twitter: ibelmopan  

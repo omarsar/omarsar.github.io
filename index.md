@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Elvis Saravia - From an academic point of view"
+tags: []
 image:
   feature: front-quote.jpg
   credit: iBelmopan
