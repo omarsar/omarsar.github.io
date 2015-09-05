@@ -12,8 +12,7 @@ image:
 
 ##Research Interests
 - Natural Language Processing
-- Text Mining
-- Data Mining
+- Social Networks Analysis and Mining
 - Emotion Classification
 - Sentiment Analysis
 - Event Detection
@@ -24,27 +23,34 @@ image:
 ##Publications
 - Chen, Yi-Shin, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. **"Concept-based event identification from social streams using evolving social graph sequences."** Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [read](http://link.springer.com/article/10.1007%2Fs13278-015-0269-x)
 
-- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [to appear](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
+- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [link coming soon](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
 
-- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [to appear](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
+- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [link coming soon](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
 
 ##Skills
 - **Web Development**: Django, Ruby on Rails, D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
 - **Research Tools**: Python, Ruby, C/C++, Java, Amazon Mechanical Turk and Tableau
 - **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
 
-
+##Awards and Honors
+- 2013 TaiwanICDF Scholarship [On the News](bit.ly/1g0xbiE )
+- 2014 International Development Cooperation Student Paper Competition ([Papers selected for Conference](bit.ly/1g0wUfJ))
+- 2015 Academia Sinica Scholarship
+- 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
 
 ##Communities
 - 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
 - 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
 
-
 ##Side Projects
+- 2015 (Creator) [EmoViz - Twitter Emotion & Interest Analysis](http://warm-oasis-5111.herokuapp.com/)
 - 2015 to present (Founder) [Kuai List](http://www.kuailist.com) 
 - 2015 to present [NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [iBelmopan](http://www.ibelmopan.com)
+- 2011 to present (Co-Founder) [Belize National Football Team - Faceboo Page](https://www.facebook.com/BelizeNationalFootball?fref=ts)
 
+##Personal Hobbies
+- 2013 to present (Manager) [Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
 
 
 
