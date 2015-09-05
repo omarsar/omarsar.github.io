@@ -11,7 +11,7 @@ image:
 ---
 
 ##Education
-- PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu Taiwan
+- PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu, Taiwan
 - Masters Degree in Infomation Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 
 
