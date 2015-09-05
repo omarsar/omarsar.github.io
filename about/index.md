@@ -44,8 +44,6 @@ image:
 - 2013 TaiwanICDF Scholarship [On the News](http://bit.ly/1g0xbiE )
 
 
-
-
 ##Communities
 - 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
 - 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
