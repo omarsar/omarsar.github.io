@@ -47,10 +47,9 @@ image:
 - 2015 to present (Founder) [Kuai List](http://www.kuailist.com) 
 - 2015 to present [NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [iBelmopan](http://www.ibelmopan.com)
-- 2011 to present (Co-Founder) [Belize National Football Team - Faceboo Page](https://www.facebook.com/BelizeNationalFootball?fref=ts)
-
-##Personal Hobbies
 - 2013 to present (Manager) [Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
+- 2011 to present (Co-Founder) [Belize National Football Team - Facebook Page (10K likes)](https://www.facebook.com/BelizeNationalFootball?fref=ts)
+
 
 
 
