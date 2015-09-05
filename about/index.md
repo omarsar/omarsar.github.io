@@ -25,7 +25,7 @@ image:
 
 - Elvis Saravia, Yi-Shin Chen, **Inferring User Interests from Microblog Data through Opinion Mining**, National Tsing Hua University 2015 (Master Thesis) - [more info](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi/ccd=RO6QLP/record?r1=1&h1=1)
 
-- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Accept Rate:18%), Paris, France - [more info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
+- Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Acceptance Rate:18%), Paris, France - [more info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedPapers.php)
 
 - Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [more info](http://asonam.cpsc.ucalgary.ca/2015/AcceptedExhibitsAndDemos.php)
 
