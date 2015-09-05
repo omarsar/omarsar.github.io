@@ -10,6 +10,11 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
+##Education
+- PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu Taiwan
+- Masters Degree in Infomation Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
+
+
 ##Research Interests
 - Natural Language Processing
 - Social Networks Analysis and Mining
