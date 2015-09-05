@@ -11,4 +11,4 @@ tags: []
 Beautiful Paris, France
 
 Inline-style: 
-![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/random-walk-paris.jpg "Paris, France")
+![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/random-walk-paris.jpg?raw=true "Paris, France")
