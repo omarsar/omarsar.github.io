@@ -11,6 +11,7 @@ image:
 ---
 
 ### Coming Soon
+- [2015 Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lighning Talk Speaker - Venturing into Social E-Commerce Platforms)
 - [WOCC 2015 (The 24th Wireless and Optical Communication Conference - October 23-25, 2015)](http://www.wocc.org/wocc2015/), Howard International House, Taipei, Taiwan (Speaker)
 
 ### Past
