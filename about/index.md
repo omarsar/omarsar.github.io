@@ -38,8 +38,8 @@ image:
 
 
 ##Skills
-- **Web Development**: Django, Ruby on Rails, D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
-- **Research Tools**: Python, Ruby, C/C++, Java, Amazon Mechanical Turk and Tableau
+- **Web Development**: Django, Ruby on Rails, NodeJS, Express , D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
+- **Research Tools**: Python, Ruby, C/C++, Java, R, Amazon Mechanical Turk and Tableau
 - **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
 
 ##Awards and Honors
@@ -59,7 +59,6 @@ image:
 - 2015 to present [NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [iBelmopan](http://www.ibelmopan.com)
 - 2013 to present (Manager) [Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
-- 2011 to present (Co-Founder) [Belize National Football Team - Facebook Page (10K likes)](https://www.facebook.com/BelizeNationalFootball?fref=ts)
 
 
 
