@@ -41,6 +41,7 @@ image:
 - **Web Development**: Django, Ruby on Rails, NodeJS, Express , D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
 - **Research Tools**: Python, Ruby, C/C++, Java, R, Amazon Mechanical Turk and Tableau
 - **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
+- **Others**: Cartoonist, Blogger and community builder.
 
 ##Awards and Honors
 - 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
