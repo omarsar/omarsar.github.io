@@ -11,9 +11,10 @@ image:
 ---
 
 ### Coming Soon
-- [WOCC 2015 (The 24th Wireless and Optical Communication Conference - October 23-25, 2015)](http://www.wocc.org/wocc2015/), Howard International House, Taipei, Taiwan (Speaker)
+- To be announced
 
 ### Past
+- [WOCC 2015 (The 24th Wireless and Optical Communication Conference - October 23-25, 2015)](http://www.wocc.org/wocc2015/), Howard International House, Taipei, Taiwan (Speaker)
 - [2015 Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lighning Talk Speaker - Venturing into Social E-Commerce Platforms)
 - [ASONAM 2015 (The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining)](http://asonam.cpsc.ucalgary.ca/2015/), Paris, France (Speaker)
 - PyCon Conference, Taipei Taiwan (Attendee)
