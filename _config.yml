@@ -9,7 +9,8 @@ url:              #http://elvissaravia.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+#highlighter: pygments
+
 sass:
   sass_dir: _sass
   style: compressed
@@ -22,7 +23,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
+  syntax_highlighter: rouge
 
 # Site owner
 owner:

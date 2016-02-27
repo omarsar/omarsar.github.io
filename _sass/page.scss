@@ -4,7 +4,9 @@
 
 body {
 	background-color: $bodycolor;
-	font-family: $base-font;
+	/*font-family: $base-font;*/
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	color: $text-color;
 }
 
