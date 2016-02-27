@@ -12,8 +12,8 @@ In the world of data and machine learning, human annotators or workers — a
 
 \\
 I have given this process (data annotating) a try and recently signed up on AMT as a worker. My first impression upon labeling some data is that the process of human labeling is not appealing. Moreover, it is cheap and feels like a modern form of slavery. Heck, I feel so bad for the workers that I don’t even want to ask them to label my data, even when I am paying them. I have been on both sides of the game and this process of human annotating is quiet nasty and controversial to say the least. With major concerns for both research and workers, I have been thinking of a way of making a system that allows the process of labeling data feel more naturally and less painful.
-\\
 
+\\
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/reactions.jpg?raw=true "Near home")
 
 \\
@@ -21,7 +21,9 @@ As I reached a plausible concept, here comes Facebook and does something out of 
 
 \\
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/mark.jpg?raw=true "Near home")
+
 \\
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/riddick.jpg?raw=true "Near home")
+
 \\
-In conclusion, I am not worried about robots replacing us. I am more worried of this mad Facebook revolution deploying unethical solutions without understanding the major implications these technologies could bring at the psychological level. Talking about damages to mental health here goes a nice little read about a concept (Panopticon) shared to us today in our Service Security class: Oppressive Spaces, Social Network, and the Panopticon. I am not too sure how it is linked but I have a feeling it’s not that different from what we are experiencing today.
+In conclusion, I am not worried about robots replacing us. I am more worried of this mad Facebook revolution deploying unethical solutions without understanding the major implications these technologies could bring at the psychological level. Talking about damages to mental health here goes a nice little read about a concept (Panopticon) shared to us today in our Service Security class: [Oppressive Spaces, Social Network, and the Panopticon](https://www.psychologytoday.com/blog/mind-wandering/201209/oppressive-spaces-social-networks-and-the-panopticon). I am not too sure how it is linked but I have a feeling it’s not that different from what we are experiencing today.
