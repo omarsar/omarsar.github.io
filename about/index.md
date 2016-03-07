@@ -10,12 +10,12 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-##Education
+## Education
 - PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu, Taiwan
 - Masters Degree in Infomation Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 
 
-##Research Interests
+## Research Interests
 - Natural Language Processing
 - Social Networks Analysis and Mining
 - Emotion Classification
@@ -25,7 +25,7 @@ image:
 - Data Analytics
 - Data Visualization
 
-##Publications
+## Publications
 - Shao-Chen Wu, Elvis Saravia, Yi-Shin Chen, **Identify Implicit User Interests on Social Networks**, WOCC 2015 (The 24th and Optical Communication Conference), Taipei, Taiwan - [to appear](http://www.wocc.org/wocc2015/)
 
 - Elvis Saravia, Yi-Shin Chen, **Inferring User Interests from Microblog Data through Opinion Mining**, National Tsing Hua University 2015 (Master Thesis) - [more info](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi/ccd=RO6QLP/record?r1=1&h1=1)
@@ -37,24 +37,24 @@ image:
 - Chen, Yi-Shin, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. **"Concept-based event identification from social streams using evolving social graph sequences."** Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [read](http://link.springer.com/article/10.1007%2Fs13278-015-0269-x)
 
 
-##Skills
+## Skills
 - **Web Development**: Django, Ruby on Rails, NodeJS, Express , D3.js, CSS, Bootstrap, Graphic Designing, Blogging, Adobe Creative Cloud and Amazon Web Services
 - **Research Tools**: Python, Ruby, C/C++, Java, R, Amazon Mechanical Turk and Tableau
 - **Database Tools**: MongoDB, Amazon RDS, CassandraDB, PostgreSQL and MySQL 
 - **Others**: Cartoonist, Blogger and community builder.
 
-##Awards and Honors
+## Awards and Honors
 - 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
 - 2015 Academia Sinica Scholarship
 - 2014 International Development Cooperation Student Paper Competition ([Papers selected for Conference](http://bit.ly/1g0wUfJ))
 - 2013 TaiwanICDF Scholarship ([On the News](http://bit.ly/1g0xbiE ))
 
 
-##Communities
+## Communities
 - 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
 - 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
 
-##Side Projects
+## Side Projects
 - 2015 (Creator) [EmoViz - Twitter Emotion & Interest Analysis](http://warm-oasis-5111.herokuapp.com/)
 - 2015 to present (Founder) [Kuai List](http://www.kuailist.com) 
 - 2015 to present [NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
