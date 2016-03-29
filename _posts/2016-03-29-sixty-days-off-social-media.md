@@ -7,7 +7,9 @@ comments: true
 excerpt: "60 Days Away From Social Media"
 tags: []
 ---
+![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/timerequests.png?raw=true "Time Requests")
 
+\\
 Recently, I find myself as busy as a bee – for lack of a better analogy. A bee worker, that is. Jokes aside, and fine lens on, lately I have been involved in too many projects and interpersonal / social media communities. So much that even my close friends and my colleagues have started to wonder if I possess some type of super-hero power. Well, let me assure you that I am no *Iron Man* and I am as human as any human can possibly be. On a serious note, there are a couple of people around that have made all of this possible for me and they should be referred to as the real super-heroes in this story. For clarification sake, I am not quitting these groups but have some ideas on how to improve my productivity without sacrificing much... and that is the beginning of my new challenge.
 
 \\
