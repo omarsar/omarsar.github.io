@@ -10,7 +10,7 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-### Current Research Areas
+### Current Research Areas (IDEA)
 - Detecting Mental Disorder through Emotion Analysis
 - Reviews Helpfulness through Opinion Mining
 - Emotion Analysis / Visualization for Intention Identification
