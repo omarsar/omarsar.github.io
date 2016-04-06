@@ -13,6 +13,7 @@ image:
 ## Education
 - PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu, Taiwan
 - Masters Degree in Infomation Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
+- Machine Learning Foundations: A Case Study Approach - University of Washington - [Coursera Certificate](http://bit.ly/1Wbus7V)
 
 
 ## Research Interests
