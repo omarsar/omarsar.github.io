@@ -13,7 +13,7 @@ image:
 ### Mental Disorder Detection 
 This study relates to the detection and analysis of mental disorders in the realm of social media. We are interested in extracting linguistic, emotional and behavioral styles for the task of mental disorder classification. 
 
-* :link: [Current Demonstration](http://deepviz.herokuapp.com/)
+* [:link: Current Demonstration](http://deepviz.herokuapp.com/)
 
 ### Emotion Analysis / Visualization for Intention Identification
 This set of studies focus on utilizing emotional knowledge to further investigate user behavior. Our understanding is that emotions have a tremendous role in how we perceive and interact with the world around us. For instance, we adopt emotion detection algorithms to understand how users are feeling about a product and through this analysis we can identify trending products as shown in the demonstration provided below.
