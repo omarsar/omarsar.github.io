@@ -18,13 +18,13 @@ image:
 
 ## Research Interests
 - Natural Language Processing
-- Social Networks Analysis and Mining
-- Emotion Classification
+- Social Network Analysis and Mining
 - Sentiment Analysis
+- Deep Learning
+- Mental Disorder Detection
 - Event Detection
 - User Interests Identification
-- Data Analytics
-- Data Visualization
+- Data Analytics & Visualization
 
 ## Publications
 - Shao-Chen Wu, Elvis Saravia, Yi-Shin Chen, **Identify Implicit User Interests on Social Networks**, WOCC 2015 (The 24th and Optical Communication Conference), Taipei, Taiwan - [to appear](http://www.wocc.org/wocc2015/)
