@@ -27,7 +27,7 @@ image:
 - Data Analytics & Visualization
 
 ## Publications
-- Elvis Saravia, Yi-Shin Chen, **Inferring User Interests from Microblog Data through Opinion Mining**, National Tsing Hua University 2015 (Master Thesis) - [:page_facing_up: more info](http://bit.ly/1TaynCK)
+- Elvis Saravia, Yi-Shin Chen, **Inferring User Interests from Microblog Data through Opinion Mining**, National Tsing Hua University 2015 (Master Thesis). Please request via email (:envelope: ellfae@gmail.com)
 
 - Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Acceptance Rate:18%), Paris, France - [:page_facing_up: read](http://bit.ly/1sjzq7T)
 
@@ -48,6 +48,7 @@ image:
 - 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
 
 ## Side Projects
+- 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
 - 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/1YpEEbY)
 - 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/1Xoy5Il)
 - 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS) 
