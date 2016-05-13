@@ -4,7 +4,7 @@ title: "Random Walk (Paris, France)"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Random Walk (Paris, France)"
+excerpt: "Random Walk (Paris, France) :camera:"
 tags: []
 ---
 

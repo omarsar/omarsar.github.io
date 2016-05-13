@@ -4,7 +4,7 @@ title: "Why you so UGLY Javascript?"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Why you so UGLY Javascript?"
+excerpt: "Why you so UGLY Javascript? :speech_balloon:"
 tags: []
 ---
 

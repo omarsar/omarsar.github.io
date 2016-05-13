@@ -4,7 +4,7 @@ title: "60 Days Away From Social Media"
 author: billy_rick
 modified:
 comments: true
-excerpt: "60 Days Away From Social Media"
+excerpt: "60 Days Away From Social Media :hash:"
 tags: []
 ---
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/timerequests.png?raw=true "Time Requests")

@@ -13,23 +13,23 @@ image:
 ### Mental Disorder Detection 
 This study relates to the detection and analysis of mental disorders in the realm of social media. We are interested in extracting linguistic, emotional and behavioral styles for the task of mental disorder classification. 
 
-* [:link: Current Demonstration](http://deepviz.herokuapp.com/)
+* [:bar_chart: Current Demonstration](http://bit.ly/1YpEEbY)
 
 ### Emotion Analysis / Visualization for Intention Identification
 This set of studies focus on utilizing emotional knowledge to further investigate user behavior. Our understanding is that emotions have a tremendous role in how we perceive and interact with the world around us. For instance, we adopt emotion detection algorithms to understand how users are feeling about a product and through this analysis we can identify trending products as shown in the demonstration provided below.
 
-* [:link: Demonstration](http://emo-viz.herokuapp.com/)
-* [:link: Paper](http://dl.acm.org/citation.cfm?id=2808916)
+* [:bar_chart: Demonstration](http://bit.ly/1Xoy5Il)
+* [:page_facing_up: Paper](http://bit.ly/1OnoC1S)
 
 ### Multilingual Emotion Detection / Classification
 Emotion classification algorithms deal with the problem of predicting what emotion a short-text or statement bear. Our in-house algorithms are able to achieve remarkable performances even when applied to different domains and languages. Currently, we support emotion classification for English, Spanish and French. In future work, we are seeking to extend to other complex languages such as Indonesian, Japanese and Chinese. 
 
-* [:link: Paper](http://dl.acm.org/citation.cfm?id=2809419)
+* [:page_facing_up: Paper](http://bit.ly/1sjzq7T)
 
 ### Event Detection
 This field of study is related to the detection of trending events on social media platforms. Platforms such as Twitter contain many events happening around the world but it's important to recommend the more relevant and important ones. 
 
-* [:link: Paper](http://link.springer.com/article/10.1007%2Fs13278-015-0269-x)
+* [:page_facing_up: Paper](http://bit.ly/1TBTiJ)
 
 ### Depression Support System
 By combining studies related to interest identification, mental disorders, event detection and emotion detection, we are able to design a complex but efficient depression support system. Such system acts as a recommendation platform for depressed social network users. By understanding these user's emotions, we can obtain their current interests and then suggest content through events or concept extraction.

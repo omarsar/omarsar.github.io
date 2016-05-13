@@ -4,7 +4,7 @@ title: "12 in 12 Challenge (Smart Bots)"
 author: billy_rick
 modified:
 comments: true
-excerpt: "12 in 12 Challenge (Smart Bots)"
+excerpt: "12 in 12 Challenge (Smart Bots) :construction_worker:"
 tags: []
 ---
 

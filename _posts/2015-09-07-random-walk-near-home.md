@@ -4,7 +4,7 @@ title: "Random Walk (Near Home)"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Random Walk (Near Home)"
+excerpt: "Random Walk (Near Home) :camera:"
 tags: []
 ---
 

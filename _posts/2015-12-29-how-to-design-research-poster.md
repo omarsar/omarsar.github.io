@@ -4,7 +4,7 @@ title: "How to Design a Research Demonstration Poster"
 author: billy_rick
 modified:
 comments: true
-excerpt: "How to design a research poster"
+excerpt: "How to design a research poster :video_camera:"
 tags: []
 ---
 

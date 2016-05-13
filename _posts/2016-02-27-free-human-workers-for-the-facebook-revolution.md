@@ -4,7 +4,7 @@ title: "Free Human Workers for the Facebook Revolution"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Free Human Workers for the Facebook Revolution"
+excerpt: "Free Human Workers for the Facebook Revolution :speech_balloon:"
 tags: []
 ---
 

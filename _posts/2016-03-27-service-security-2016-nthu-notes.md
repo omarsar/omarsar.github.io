@@ -4,7 +4,7 @@ title: "Service Security 2016 NTHU Notes"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Service Security 2016 NTHU Notes"
+excerpt: "Service Security 2016 NTHU Notes :lock:"
 tags: []
 ---
 
