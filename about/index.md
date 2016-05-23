@@ -35,8 +35,6 @@ image:
 
 - Chen, Yi-Shin, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. **"Concept-based event identification from social streams using evolving social graph sequences."** Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [:page_facing_up: read](http://bit.ly/1TBTiJ4)
 
-- Shao-Chen Wu, Elvis Saravia, Yi-Shin Chen, **Identify Implicit User Interests on Social Networks**, WOCC 2015 (The 24th and Optical Communication Conference), Taipei, Taiwan - [:link: to appear](http://www.wocc.org/wocc2015/)
-
 ## Awards and Honors
 - 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
 - 2015 Academia Sinica Scholarship
