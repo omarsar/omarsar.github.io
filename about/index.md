@@ -48,6 +48,7 @@ image:
 ## Side Projects
 - 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
 - 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/1YpEEbY)
+- 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)
 - 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/1Xoy5Il)
 - 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS) 
 - 2015 to present [:link: NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
