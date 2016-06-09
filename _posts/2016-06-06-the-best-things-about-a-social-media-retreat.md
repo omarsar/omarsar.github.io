@@ -18,11 +18,12 @@ First of all, in terms of productivity, I have definitely hit the ground running
 
 So what are these “things” I keep referring to? First, I have become very interested in writing, thus needing to devour countless pieces of literature to improve such skill. In order to keep my writing skills as fresh as possible, I have also started a small open-source project which involves the making of a research handbook (more of that in future articles). As for my coding abilities, I have trained super hard to keep them intact. I have also found a new passion and it’s called “Markdown”. Markdown is a simple markup programming language that allows me to write and code at the same time – it’s amazing! In fact, the majority of this blog was developed using markdown. To provide a short glimpse of my programming activity, what better than the Github activity bar, which displays my daily contributions and the current projects I am working on. Take a peep below. The white cells represent the days when I am with junior and the green cells represent those days when I am jamming. If you look closer at the graph, you can sort of conclude that I have been working my @ss off, in the past couple of months. 
 
+\\
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/github_contributions.png?raw=true "Github contributions")
 
 
 \\
-Enough of the conventional stuff; here are two radical findings for your reading pleasure. 
+Enough of the conventional stuff! Here are two radical findings for your reading pleasure. 
 
 ### Noise Reduction 
 
