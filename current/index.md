@@ -13,12 +13,12 @@ image:
 ### Mental Disorder Detection 
 This study relates to the detection and analysis of mental disorders in the realm of social media, in particular Twitter. We are interested in extracting linguistic, emotional and behavioral styles for the task of mental disorder classification. We leverage crowd-sourcing concepts and propose a novel data collection mechanism for obtaining reliable online patient datasets.
 
-* [:bar_chart: Current Demonstration](http://bit.ly/1YpEEbY)
+* [:bar_chart: Current Demonstration](http://bit.ly/ideamidas)
 
-### Emotion Analysis / Visualization for Intention Identification
+### (EmoViz) - Emotion Analysis / Visualization for Intention Identification 
 This work focuses on utilizing emotional knowledge to further investigate user behavior, in particular user intention or user interest identification. Our understanding is that emotions have a tremendous role in how we perceive and interact with the world around us. To that end, we adopt emotion detection algorithms to understand how users are feeling about a product for a given period of time. Through such emotional analysis, we are able to identify trending products as shown in the demonstration provided below.
 
-* [:bar_chart: Demonstration](http://bit.ly/1Xoy5Il)
+* [:bar_chart: Demonstration](http://bit.ly/emoviz)
 * [:page_facing_up: Paper](http://bit.ly/1OnoC1S)
 
 ### Multilingual Emotion Detection / Classification

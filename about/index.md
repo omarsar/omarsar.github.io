@@ -32,7 +32,7 @@ image:
 
 - Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, **Unsupervised Graph-Based Patterns Extraction for Emotion Classification**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Acceptance Rate:18%), Paris, France - [:page_facing_up: read](http://bit.ly/1sjzq7T)
 
-- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [:page_facing_up: read](http://bit.ly/1OnoC1S)
+- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, **EmoViz: Mining the World’s Interest through Emotion Analysis**, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015), Paris, France - [:page_facing_up: read](http://bit.ly/emoviz)
 
 - Chen, Yi-Shin, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. **"Concept-based event identification from social streams using evolving social graph sequences."** Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [:page_facing_up: read](http://bit.ly/1TBTiJ4)
 
@@ -48,9 +48,9 @@ image:
 
 ## Side Projects
 - 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
-- 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/1YpEEbY)
+- 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/ideamidas)
 - 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)
-- 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/1Xoy5Il)
+- 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
 - 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS) 
 - 2015 to present [:link: NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [:link: iBelmopan](http://bit.ly/1TSu3EY)
