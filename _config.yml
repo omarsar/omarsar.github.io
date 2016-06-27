@@ -2,7 +2,7 @@
 
 title:            Elvis Saravia
 locale:           en_US
-url:              http://elvissaravia.com
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -23,7 +23,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
   syntax_highlighter: rouge
 
 # Site owner
