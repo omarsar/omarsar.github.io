@@ -11,7 +11,8 @@ image:
 ---
 
 ### Coming Soon
-- To be announced
+- The 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+ASONAM 2016 - San Francisco, CA, USA, 18 - 21 August, 2016
 
 ### Past
 - [WOCC 2015 (The 24th Wireless and Optical Communication Conference - October 23-25, 2015)](http://www.wocc.org/wocc2015/), Howard International House, Taipei, Taiwan (Speaker)
