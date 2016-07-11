@@ -61,6 +61,7 @@ image:
 - 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
 
 ## Side Projects
+- 2016 (Co-Creator) [:octocat: Secure URL Shortner Service](https://github.com/wisebits/url-shortner)
 - 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
 - 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/ideamidas)
 - 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)

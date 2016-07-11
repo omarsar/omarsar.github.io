@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Research and Projects
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -40,3 +40,6 @@ These set of studies aim at building dynamic algorithms that are able to extract
 
 ### Reviews Helpfulness through Opinion Mining
 This study relates to the use of state-of-the-art Opinion Mining techniques to deduce how helpful reviews can be. Our approach focuses on the emotional styles used by online users, particularily those users talking about different features of products and services. Once the emotional styles are obtained, we employ clustering and classification techniques to further understand the consumers' position through the content found in their reviews. Our approaches also works well with reviews submitted to different domains (e.g., movies and books). :construction_worker:
+
+### Secure URL Shortner
+A url shortner is a service that basically renders a shorter url for the one being provided (usually long). In this project, we implemented a service in a secure way that allows users to auto-generate a short URL that is secure and shareable among users with proper permission. Additionally, authors and users with the proper permission will be able to access a dashboard and obtain insights into the traffic information pertaining to the URL provided. Our hope is to provide a safe service using state-of-the-art security tools. [Code](https://github.com/wisebits/url-shortner)
