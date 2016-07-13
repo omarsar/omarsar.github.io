@@ -4,7 +4,7 @@ title: "Random Observation: Open to criticism"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Let's welcome criticism :thought_balloon"
+excerpt: "Let's welcome criticism :thought_balloon:"
 tags: []
 ---
 
