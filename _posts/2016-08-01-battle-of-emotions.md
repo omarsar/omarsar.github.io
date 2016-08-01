@@ -10,6 +10,7 @@ tags: []
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/emotions.png?raw=true "Emotions")
 
+\\
 Happiness is like the wind, it almost never disappears. Its spirit moves around freely and eloquently, without preference of race and gender, looking for a host to pour its pure sensations. And when it's finally captured, it quickly manifests into rage, lasting only a few minutes, a few seconds or no time at all. The pain overtakes the brain as it pleases, as the wind and tides become high again. 
 
 \\
