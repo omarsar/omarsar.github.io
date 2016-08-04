@@ -17,7 +17,7 @@ Feeling confident about being able to execute that big idea and turn it into a s
 The feeling of confidence is not the same as the feeling of drive and vision. Motivation is nothing without end goals. I guess what I am trying to say is that you need a dream team. More importantly, for your idea or business to prosper, you need to find the best leaders.
 
 \\
-The same goes for writing, song-writing, researching, and just about any trade left in the market today.
+The same goes for writing, broadcasting, researching, and just about any trade left in the market today.
 
 \\
 Our world has seen a sudden rise in computation speed and artificial intelligence (AI). The potential for business has been slashed in two, as machines continue to replace ideas and the working class. 
@@ -32,4 +32,4 @@ In simple terms, our comrades from the most distant and unreachable places of th
 Still feeling confident? I am not trying to rain on your parade. The truth of the matter is that without a team and a smarter set of people around you, you might as well just donate that VC money to a good cause. It is a fierce world out there. Plan and strategize like never before. 
 
 \\
-And as for your friend confidence, you better put him under a leash. Confidence distorts the imagination and your goals. Use it only when you must and put it aside when you are implementing the next big thing. 
+And as for your friend confidence, you better put him under a leash. Confidence distorts the imagination and your goals. Use it only when you must, and put it aside when you are implementing the next big thing. 
