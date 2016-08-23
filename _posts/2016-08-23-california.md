@@ -8,7 +8,7 @@ excerpt: "Golden State Bridge, California :thought_balloon:"
 tags: []
 ---
 
-![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/conference.jpg?raw=true "Golden State Bridge, California")
+![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/california.jpg?raw=true "Golden State Bridge, California")
 
 \\
 Hello Golden State Bridge. (Golden State Bridge, San Fransisco, California, 2016)
