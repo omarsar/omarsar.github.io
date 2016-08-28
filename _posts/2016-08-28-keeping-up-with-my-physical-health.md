@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Random Observation: Open to criticism"
+title: "Keeping up with my physical health"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Let's welcome criticism :thought_balloon:"
+excerpt: "Keeping up with my physical health :thought_balloon:"
 tags: []
 ---
 
