@@ -4,10 +4,13 @@ title: "Keeping up with my physical health"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Keeping up with my physical health :thought_balloon:"
+excerpt: "Keeping up with my physical health :heart:"
 tags: []
 ---
 
+![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/heart.png?raw=true "Heart")
+
+\\
 As a computer science Ph.D. researcher, there is little physical activity going on in my life at the moment. By little, I mean absolutely none. Frankly, the most activity I am getting recently is just those frequent trips to the toilet; they are signs of old age, nothing to get excited about. Wow! I am getting old. 
 
 \\
