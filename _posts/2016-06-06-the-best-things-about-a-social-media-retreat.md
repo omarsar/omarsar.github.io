@@ -2,7 +2,7 @@
 layout: post
 title: "The best things about a social media retreat"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "The best things about a social media retreat :speech_balloon: :hash:"
 tags: []

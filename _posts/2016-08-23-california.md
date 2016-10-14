@@ -2,7 +2,7 @@
 layout: post
 title: "Golden State Bridge, California"
 author: billy_rick
-modified:
+modified: 
 comments: true
 excerpt: "Golden State Bridge, California :thought_balloon:"
 tags: []

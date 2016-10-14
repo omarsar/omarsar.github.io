@@ -2,7 +2,7 @@
 layout: post
 title: "When time meets freedom"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "When time meets freedom :thought_balloon:"
 tags: []

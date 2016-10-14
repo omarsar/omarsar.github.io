@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 author: billy_rick
-modified:
+modified: 
 comments: true
 excerpt: "Just saying hi!"
 tags: []

@@ -2,7 +2,7 @@
 layout: post
 title: "Feeling confident?"
 author: billy_rick
-modified:
+modified: 
 comments: true
 excerpt: "Feeling confident? :thought_balloon:"
 tags: []

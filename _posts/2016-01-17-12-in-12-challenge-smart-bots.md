@@ -2,7 +2,7 @@
 layout: post
 title: "12 in 12 Challenge (Smart Bots)"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "12 in 12 Challenge (Smart Bots) :construction_worker:"
 tags: []

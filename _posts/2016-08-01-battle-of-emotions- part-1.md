@@ -2,7 +2,7 @@
 layout: post
 title: "Battle of the emotions - Part 1"
 author: billy_rick
-modified:
+modified: 
 comments: true
 excerpt: "Battle of the emotions :thought_balloon:"
 tags: []

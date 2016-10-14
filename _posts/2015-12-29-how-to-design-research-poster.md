@@ -2,7 +2,7 @@
 layout: post
 title: "How to Design a Research Demonstration Poster"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "How to design a research poster :video_camera:"
 tags: []

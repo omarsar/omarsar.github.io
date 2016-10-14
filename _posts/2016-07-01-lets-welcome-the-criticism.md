@@ -2,7 +2,7 @@
 layout: post
 title: "Random Observation: Open to criticism"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "Let's welcome criticism :thought_balloon:"
 tags: []

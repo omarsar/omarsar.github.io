@@ -2,7 +2,7 @@
 layout: post
 title: "60 Days Away From Social Media"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "60 Days Away From Social Media :hash:"
 tags: []

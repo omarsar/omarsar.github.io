@@ -2,7 +2,7 @@
 layout: post
 title: "Random Walk (Paris, France)"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "Random Walk (Paris, France) :camera:"
 tags: []

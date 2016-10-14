@@ -2,7 +2,7 @@
 layout: post
 title: "Service Security 2016 NTHU Notes"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "Service Security 2016 NTHU Notes :lock:"
 tags: []

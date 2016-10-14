@@ -2,7 +2,7 @@
 layout: post
 title: "Why you so UGLY Javascript?"
 author: billy_rick
-modified:
+modified: 2016-08-28
 comments: true
 excerpt: "Why you so UGLY Javascript? :speech_balloon:"
 tags: []
