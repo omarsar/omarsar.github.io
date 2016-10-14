@@ -27,6 +27,8 @@ image:
 - Data Analytics & Visualization
 
 ## Publications
+- Elvis Saravia, Carlos Argueta, Yi-Shin Chen, *Unsupervised graph-based pattern extraction for multilingual emotion classification*, Soc. Netw. Anal. Min. (2016) 6: 92. doi:10.1007/s13278-016-0403-4 [:page_facing_up: read](http://bit.ly/2eAO7QS)
+
 - Chun-Hao Chang, Elvis Saravia, Yi-Shin Chen, *Subconscious Crowdsourcing: A Feasible Data Collection Mechanism for Mental Disorder Detection on Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA - (To appear)
 
 - Elvis Saravia, Chun-Hao Chang, Renaud Jollet De Lorenzo, and Yi-Shin Chen, *MIDAS: Mental Illness Detection and Analysis via Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA - (To appear)
