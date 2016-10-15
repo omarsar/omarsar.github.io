@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I think about work-life balance"
+title: "My opinion on the work-life balance concept"
 author: billy_rick
 modified:
 comments: true
@@ -16,7 +16,7 @@ First, her remarks made me stumble a little bit since I have been contemplating 
 \\
 My wife began to strengthen her point as the back and forth continued through brunch. She explains that "such concept is exactly what drives people to failure in our society." We are made to believe that everything will turn out exactly as we want if we just know how to find the perfect equilibrium between work and life. "Perfect equilibrium" is something worth talking about a little further. "We seamlessly believe such b-rule (bullshit rule) even when we recognize that someone else might is eating our lunch in front of our face. That is madness!" she remarks. This is exactly what favors the rich since now we are disabled with nonsense; mentally impaired with garbage. None of which favors the less-fortunate. How can we challenge the status quo with our hands tied behind our back and our eyes covered with a pitch black cloth? We are in trouble. In fact, we are in deep trouble. Not all hope is lost, however.
 
-\\ 
+\\
 Boy, the more examples she kept presenting to me the more perplexed I became. I mean to say that this is what I have been believing all these years: a promised land; a promised dream; and an independent life filled with plenty of brilliant moments. Reality check looks like the face of a cold-blooded ogre. But it allows you to realize that nothing in life comes easy. That is a rule found even in the testaments of the Bible. To receive and achieve, one must simply work the land and love the family. One must not try to seek a shortcut or a permanent formula for success. Success comes with sweat and vision. Success doesn't through reliance on false theories or misconceptions. 
 
 \\
