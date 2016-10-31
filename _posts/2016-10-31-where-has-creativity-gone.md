@@ -35,7 +35,7 @@ Something is not right. Let me take a break and go heal myself mentally and phys
 Now that I remember, lately I am only reading heavy theoretical matter to prepare for some exams in which there is a lot of memorizing going on. Maybe it is the part of the brain that is in charge of creativity that is not being activated frequently and it had seized to function. That could explain everything. The activation of other parts of the brain could even be suppressing it. I should say that the part of the brain in charge of my negative emotions is on top of its game. There is no doubt there. In fact, I must warn you. Don’t you dare upset me! Just kidding my friends! I am still shy and could take a “licking” as we like to say back home.
 
 \\
-My overall feeling is that I should be able to learn more about what is happening and find a scientific explanation as to why my creative juices have abandoned me, especially at a crucial time like the one I am currently living in. I must find the remedy. I must say it shouldn't be hard for as long as I am true to myself and to everyone around me. Wish me luck my beautiful people.
+My overall feeling is that I should be able to learn more about what is happening and find a scientific explanation as to why my creative juices have abandoned me, especially at a crucial time like the one I am currently living in. I must find the remedy. I must say that it shouldn't be hard for as long as I am true to myself and to everyone around me. Wish me luck my beautiful people.
 
 ---
 If you are enjoying these blog posts, show me the :heart: :blue_heart: :green_heart: by commenting below. I promise to write more frequently. :v: :v:
