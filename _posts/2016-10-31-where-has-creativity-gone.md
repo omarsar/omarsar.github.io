@@ -23,6 +23,9 @@ As a matter of fact, I am wondering at the moment if this writing has any creati
 Some people say it is what you eat, some say it is what you read, and some even say it is what you had for breakfast that gets those creative juices going. I began drawing a lot earlier this year and now I don’t even know what the hell to draw. Look what I drew below. 
 
 \\
+![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/space.jpg?raw=true "Space")
+
+\\
 Work of a crazy person don’t you think? Defying the laws of physics through doodles inspired by lamenting feelings. What was I thinking? Of course, I can’t defy the laws of physics – that is not my field first of all; but isn’t it that what creativity is all about – defying the well-established laws of life. Even when it seems that you are completely missing a good portion of that beautiful gray matter. I should know since all my life I have worked under a philosophy with a creative vision and drive for change. Heck, I even ran a company with “Creative” as part of its slogan.
 
 \\
@@ -33,3 +36,6 @@ Now that I remember, lately I am only reading heavy theoretical matter to prepar
 
 \\ 
 My overall feeling is that I should be able to learn more about what is happening and find a scientific explanation as to why my creative juices have abandoned me, especially at a time when I need them the most. I must find the remedy. I must say it shouldn't be hard for as long as I am true to myself and to everyone around me. Wish me luck my beautiful people.
+
+---
+If you are enjoying these blog posts, show me the :heart: :heart :heart: by commenting below. I promise to write more frequently. :v: :v:
