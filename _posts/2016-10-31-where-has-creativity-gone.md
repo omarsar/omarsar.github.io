@@ -38,4 +38,4 @@ Now that I remember, lately I am only reading heavy theoretical books to prepare
 My overall feeling is that I should be able to learn more about what is happening and find a scientific explanation as to why my creative juices have abandoned me, especially at a crucial time like the one I am currently living in. I must find the remedy. I must say that it shouldn't be hard for as long as I am true to myself and to everyone around me. Wish me luck my beautiful people.
 
 ---
-If you are enjoying these blog posts, show me the :heart: :blue_heart: :green_heart: by commenting below. I promise to write more frequently. :v: :v:
+If you are enjoying these blog posts, show me the :heart: :blue_heart: :green_heart: by commenting below -- and I promise to write more frequently. :v: :v:

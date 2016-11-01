@@ -15,3 +15,5 @@ If you are a Windows user you might have come across the important task of rotat
 
 Rotating an image should be as easy as cutting or deleting an image. With the current state of Computer Vision and image processing, there should already be technology that can automatically rotate an image in the right direction without the struggle of punishing your brain to decide which way to rotate an image. 
 
+---
+If you are enjoying these comic strips, show me the :heart: :blue_heart: :green_heart: by commenting below -- and I promise to write more frequently. :v: :v:
