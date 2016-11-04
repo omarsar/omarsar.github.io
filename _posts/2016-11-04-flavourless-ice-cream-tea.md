@@ -19,7 +19,7 @@ I say:
 >> "Don't judge a tea by its base."
 
 \\
-Here in Taiwan we have the option to make the perfect mix that can quench our thirst. Our thirst varies so much that there is need for a menu with a wide range of options. Its like saying that there needs to be 7 billion ways of combining a drink. It is not possible, but whichever business can achieve this, they are in business. 
+Here in Taiwan we have the option to make the perfect mix that can quench our thirst. Our thirst varies so much that there is need for a menu with a wide range of options. It is like saying that there needs to be 7 billion ways of combining a drink. It is not possible, but whichever business can achieve this, they are in business. 
 
 \\
 My favorite tea is one that is perfectly chilled (30% ice) and sugarless (0% sugar).It sounds disgusting or even pointless, but wait until you add ice-cream to that same drink. A layer of ice-cream on top of a flavorless bed of red tea ("hong cha") is like when heaven meets earth... whatever that may be. 
