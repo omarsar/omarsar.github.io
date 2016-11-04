@@ -25,7 +25,7 @@ Here in Taiwan we have the option to make the perfect mix that can quench our th
 My favorite tea is one that is perfectly chilled (30% ice) and sugarless (0% sugar).It sounds disgusting or even pointless, but wait until you add ice-cream to that same drink. A layer of ice-cream on top of a flavorless bed of red tea ("hong cha") is like when heaven meets earth... whatever that may be. 
 
 \\
-You see, ordering a mix of tea is more than just ordering a thirst quencher. It is another way of showing character and personality. Absorbing culture requires a 'daring' factor. I never let the opportunity pass by. It is more than just getting our money's worth. It is about customizing behavior and sense of style. These things make you a more appealing person in whatever environment you may be. So go order your version of flavorless, ice cream tea and show your true colors. The inner skin is just waiting to be painted by mystery and originality. 
+You see, ordering a mix of tea is more than just ordering an ordinary thirst quencher. It is another way of showing character and personality. It's like saying I need to pick and consume the love I desire or the knowledge I require. Absorbing culture requires a 'daring' factor. I never let the opportunity pass by and you shouldn't too. It is more than just getting our money's worth. It is about customizing behavior and sense of style. These things make you a more appealing person in whatever environment you may be. So go order your version of flavorless, ice cream tea and show your true colors. The inner skin is just waiting to be painted by mystery and originality. 
 
 
 ---
