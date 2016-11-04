@@ -28,7 +28,7 @@ My favorite tea is one that is perfectly chilled (30% ice) and sugarless (0% sug
 You see, ordering a mix of tea is more than just ordering an ordinary thirst quencher. It is another way of showing character and personality. It's like saying I need to pick and consume the love I desire or the knowledge I require. Absorbing culture requires a 'daring' factor. I never let the opportunity pass by and you shouldn't too. 
 
 \\
-It is more than just getting our money's worth. It is about customizing behavior and sense of style. A need to evolve our desires and ambitions; a desire to reach a state that is greater than the current one. Some people call this process *'Getting High'*. I call it *'Getting Character'*. These things make you a more appealing person in whatever environment you may be. So go order your version of flavorless, ice cream tea and show your true colors. The inner skin is just waiting to be painted by mystery and originality. Waiting to expose the natural dimensions of our most inner properties.
+It is more than just getting our money's worth. It is about customizing behavior and sense of style. A need to evolve our desires and ambitions; a desire to reach a state that is greater than the current one. Some people call this process *'Getting High'*. I call it *'Getting Character'*. These things make you a more appealing person in whatever environment you may be. So go order your version of flavorless, ice cream tea and show your true colors. The inner skin is just waiting to be painted by mystery and originality; waiting to expose the natural dimensions of our most inner properties.
 
 
 ---
