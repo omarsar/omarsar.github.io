@@ -7,10 +7,10 @@ comments: true
 excerpt: "Hit the publish button"
 tags: []
 ---
-Everybody wants to hear a story... so tell one. 
+Everybody wants to hear a story... so tell one.
 \\
 
-Take your keboard, get a hot cup of coffee, sit down, close your internet browsers, open your notepad, and type away... for like 10 minutes, nonestop. Do this everyday and you can become a better writer (I promise!) and an incredible storyteller. That is all there is to it, really. 
+Take your keboard, get a hot cup of coffee, sit down, close your internet browsers, open your notepad, and type away... for like 10 minutes, nonestop. Do this everyday and you can become a better writer (I promise!) and an incredible storyteller. That is all there is to it, really.
 \\
 
 Relax... don't worry about grammar or typooos (see what I did there!).
