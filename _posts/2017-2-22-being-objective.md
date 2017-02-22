@@ -27,4 +27,4 @@ Let that be an example of how to expose someone without relying on an extravagan
 
 
 ---
-Hello there :wave: :wave: :wave:, thanks for reading! If you don't want to miss out on the next blog post, leave your email here and I will send you an email notification. 
+Hello there :wave: :wave: :wave:, thanks for reading! If you don't want to miss out on the next blog post, leave your email here and I will make sure to send you an email notification next time. 
