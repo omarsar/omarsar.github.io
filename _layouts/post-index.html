@@ -51,7 +51,7 @@
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
-         <p class="byline"> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+         <p class="byline"> <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
       </article>
     {% endfor %}
   </div><!-- /#index -->
