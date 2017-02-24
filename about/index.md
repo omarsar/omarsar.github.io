@@ -52,6 +52,7 @@ image:
 - Machine Learning Foundations: A Case Study Approach - University of Washington, 2016 – [Link](http://bit.ly/1Wbus7V)
 - Test of Chinese as a Foreign Language’s Listening and Reading Comprehension, 2014 – [Link](https://www.dropbox.com/s/veq0q7jtw203ykg/ELvis-Chinese%20Exam%20Certficate.pdf?dl=0) 
 - Intense Mandarin Course, NTHU, 2014 – [Link](https://www.dropbox.com/s/h1cm5ebfd953wl8/chinese%20exam%20diploma.pdf?dl=0)
+- Former Presiding Officer @ Belize General Elections, 2012
 - Basic Security Management Course, Taiwan-ICDF, 2012 – [Link](https://www.dropbox.com/s/qrqahsnymkpxtv9/basic_security_management.pdf?dl=0) 
 - Audit Login Matrix Workshop, CCAD~FCVI, 2012 – [Link](https://www.dropbox.com/s/eyg0ahcawk1dq0f/Audit_Logic_workshop.pdf?dl=0)
 - Improved Financial Management through Internal Control: A COSO Approach, IDB, 2011 – [Link](https://www.dropbox.com/s/zt9kqhz8rcoexir/Improving_financial_management.pdf?dl=0) 
