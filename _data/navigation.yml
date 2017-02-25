@@ -1,19 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Blog
   url: /posts/
 
 - title: Activities
   url: /activities/
 
-- title: Bleets
-  url: /bleets/
+#- title: Bleets
+#  url: /bleets/
 
 - title: Research
   url: /current/
+
+- title: About
+  url: /about/
 
 - title: Subscribe
   url: https://goo.gl/forms/zLiYBvLdsHo37Dei1

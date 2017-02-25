@@ -10,10 +10,11 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-### Coming Soon
-- To be announced.
+### Current
+- Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
 
 ### Past
+- Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2016 [:link:](http://www.cs.nthu.edu.tw/~yishin/course.html)
 - The 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
 ASONAM 2016 - San Francisco, CA, USA, 18 - 21 August, 2016
 - [2015 Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lightning Talk Speaker - Venturing into Social E-Commerce Platforms)
