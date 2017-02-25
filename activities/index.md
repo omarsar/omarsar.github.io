@@ -11,7 +11,7 @@ image:
 ---
 
 ### Current
-- Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
+- Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2017 [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
 
 ### Past
 - Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2016 [:link:](http://www.cs.nthu.edu.tw/~yishin/course.html)
