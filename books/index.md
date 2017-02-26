@@ -30,7 +30,9 @@ For now there is no time frame for this project but I am preparing one if you ar
 \\
 ![alt-text-1](https://github.com/omarsar/omarsar.github.io/blob/master/images/os.png?raw=true) ![alt-text-2](https://github.com/omarsar/omarsar.github.io/blob/master/images/machine-learning.png?raw=true)
 
+\\
 [Operating Systems - Draft](https://github.com/omarsar/os)
+\\
 [Machine Learning - Draft](https://github.com/omarsar/machine_learning_fundamentals)
 
 
