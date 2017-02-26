@@ -12,6 +12,7 @@ image:
 
 The Bit Series Manifesto
 
+\\
 I have been doing Computer Science (CS) for almost ten years and I have struggled to find books that effectively teach the fundamentals of CS-related subjects, such as Operating Systems, Data Structures, Database, and Machine Learning. As a CS PhD student, trust me, there are only a few books that are worth your time and money. The main reason for such shortcoming is that CS books generally become outdated and fail to effectively incopororate the newer concepts that are constantly emerging as technology evolves. In addition, the means of learning also keeps changing as now we are more used to different type of content that is easy to consume and engage with.
 
 \\
@@ -27,9 +28,7 @@ As I understand it, the power of collaboration should not be undersestimated and
 I am aware that this is a tough endeavour, but with the help of the community this should only be another side-project that can benefit the next generation of computer scientists. I am in!
 
 \\
-Operating Systems             |  Machine Learning
-:-------------------------:|:-------------------------:
-![](https://github.com/omarsar/omarsar.github.io/blob/master/images/os.png?raw=true)  |  ![](https://github.com/omarsar/omarsar.github.io/blob/master/images/machine-learning.png?raw=true)
+![alt-text-1](https://github.com/omarsar/omarsar.github.io/blob/master/images/os.png?raw=true) ![alt-text-2](https://github.com/omarsar/omarsar.github.io/blob/master/images/machine-learning.png?raw=true)
 
 
 
