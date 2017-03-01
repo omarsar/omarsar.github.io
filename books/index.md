@@ -37,7 +37,7 @@ For now, there is no time frame attached to this project but I am preparing one 
 [Machine Learning - Draft](https://github.com/omarsar/machine_learning_fundamentals)
 
 \\
-If you need more information about this project, I will be releasing more information on my blog in the future. You can subscribe [here](https://goo.gl/forms/YBzDDDXAlKDT6Neg1) or email me directly at ellfae@gmail.com. You can also find me on social-media if, necessary.  
+If you need more information about this project, I will be releasing more information on my blog in the future. You can subscribe [here](https://goo.gl/forms/YBzDDDXAlKDT6Neg1) or email me directly at ellfae@gmail.com. You can also find me on social-media, if necessary.  
 
 
 
