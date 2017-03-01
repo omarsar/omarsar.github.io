@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Books
+title: The Bit Series Manifesto
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -9,8 +9,6 @@ image:
   credit: iBelmopan
   creditlink: http://www.ibelmopan.com/
 ---
-
-The Bit Series Manifesto
 
 \\
 I have been doing Computer Science (CS) for almost ten years and I have struggled to find books that effectively teach the fundamentals of CS-related subjects, such as Operating Systems, Data Structures, Database, and Machine Learning. As a CS PhD student, trust me, there are only a few books that are worth your time and money. The main reason for such shortcoming is that CS books generally become outdated and fail to effectively incorporate the newer concepts that are constantly emerging as technology evolves. In addition, the means of learning also keeps changing as now we are more used to different type of content that is easy to consume and engage with. 
