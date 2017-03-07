@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ">> One step at a time :speech_balloon:"
+title: "One step at a time :speech_balloon:"
 author: billy_rick
 modified: 
 comments: true
@@ -8,7 +8,7 @@ excerpt: "Why you should take it one step at a time"
 tags: []
 ---
 
->>
+>> One step at a time
 
 We have heard this saying more than we have taken an elevator. While we are on this topic, did you know that elevators literally prevent you from taking small steps, which in turn lead to retention of unnecessary calories. Something you already knew, but here is what you may have missed.
 
