@@ -26,7 +26,7 @@ Cars, elevators, and computers solve two big problems for you: reaching your des
 Did you miss something here? Yes, I feel you missed a lot. The day went by too fast, that you forgot to smile with your neighbor, listen to the classic jazz beat playing in the background, and avoided the birds whistling sweet songs for you. You basically missed everything. Lucky for you, there is always hope for another day, where we can take u-turns as we please. 
 
 \\
-For a change, today, I encourage you to approach your start of the day one step at a time, and I promise positive results. At worst, you will miss all your morning emails and Facebook notifications. At best, you will discover something that been patiently waiting for you all this time – a new business partner or even your future spouse. You see, it really does matter. Take your time, in fact, take it one step at a time.
+Today, for a change, I encourage you to approach your beginning and end of the day in a "one step at a time" mode, and I promise positive results. At worst, you will miss all your morning emails and Facebook notifications. At best, you will discover something that been patiently waiting for you all this time – a new business partner or even your future spouse. You see, it really does matter. Take your time, in fact, take it one step at a time.
 
 \\
 This doesn't mean you should relax [:link:](http://elvissaravia.com/what-i-think-about-work-life-balance/), it just means that you should break these systems into the smaller components, and tackle them individually, one step at a time. This includes living, cooking, loving, coding, painting, reading, and whatever else it is that you would like to spend your day on. 
