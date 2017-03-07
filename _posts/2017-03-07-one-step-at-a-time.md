@@ -8,13 +8,13 @@ excerpt: "Why you should take it one step at a time"
 tags: []
 ---
 
-We have heard this saying more than we have taken an elevator. While we are on this topic, did you know that elevators prevent you from taking small literal steps, which in turn lead to retention of unnecessary calories. Something you already knew, but here is what you might have missed.
+We have heard this saying more than we have taken an elevator. While we are on this topic, did you know that elevators literally prevent you from taking small steps, which in turn lead to retention of unnecessary calories. Something you already knew, but here is what you might have missed.
 
 \\
-Before mechanics became a thing, how did early humans took steps (I am not talking about literal steps)? Did they take one "step at a time" with every new experience? I bet they did, since there wasn’t much to do those days than just survive to see another day. Regardless of their initial lack of understanding, these people lived risky, incredible and stress-free lives. So what has changed in our time?
+Before machines became a thing, how did early humans took steps (I am not referring to walking steps)? Was every new experience handled "one step at a time?" I bet they did, since there wasn’t much to do those days than just survive to see another day. Regardless of their initial lack of understanding, these people lived risky, incredible and stress-free lives. So what has changed in our time?
 
 \\
-I've been solving problems since I was 3 years old -- that is roughly when I began school. Similar to those early human beings, as a kid, I had a particular interest in interacting with surrounding objects -- pencils, crayons, Lego blocks, puzzles, stickers, cards, and so on. I use to love solving huge puzzles one puzzle-piece at a time. I miss those days since they represent the most carefree time I ever lived.
+I've been solving problems since I was 3 years old -- that is roughly when I started school. Similar to those early human beings, as a kid, I had a particular interest in interacting with surrounding objects -- pencils, crayons, Lego blocks, puzzles, stickers, cards, and so on. I use to love solving huge puzzles one puzzle-piece at a time. I miss those days since they represent the most carefree time I ever lived.
 
 \\
 Actually, I still have an interest in these objects but I barely interact with them now; they just gather dust on top of my old, unstable mahogany table. In most cases, I prefer to sit by my perfectly-aligned table and use the computer -- it solves all my problems, and in less time. But does it really solve all my problems?
