@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""One step at a time" :speech_balloon:"
+title: "One step at a time :speech_balloon:"
 author: billy_rick
 modified: 
 comments: true
