@@ -17,13 +17,13 @@ Before machines became a thing, how did early humans took steps (I am not referr
 I've been solving problems since I was 3 years old -- that is roughly when I started school. Similar to those early human beings, as a kid, I had a particular interest in interacting with surrounding objects -- pencils, crayons, Lego blocks, puzzles, stickers, cards, and so on. I use to love solving huge puzzles one puzzle-piece at a time. I miss those days since they represent the most carefree time I ever lived.
 
 \\
-Actually, I still have an interest in these objects but I barely interact with them now; they just gather dust on top of my old, unstable mahogany table. In most cases, I prefer to sit by my perfectly-aligned table and use the computer -- it solves all my problems, and in less time. But does it really solve all my problems?
+Actually, I still have an interest in these objects but I barely interact with them now; they just gather dust on top of my old, rocking mahogany table. In most cases, I prefer to sit by my perfectly-aligned table, and use the computer to get things done -- it solves all my problems, and in less time. But does it really solve all my problems?
 
 \\
 Cars, elevators, and computers solve two big problems for you: reaching your destination, and completing your day's work. In total, you only took two steps to solve two problems, and in the process created a million new ones: countless health issues, a ridiculous gas bill, and an opportunity to engage in dialogue with your new coworker. 
 
 \\
-Did you miss something here? Yes, I feel you missed a lot. The day went by too fast, that you forgot to smile with your neighbor, listen to the classic jazz beat playing in the background, and avoided the birds whistling sweet songs for you. You basically missed everything. Lucky for you, there is always a hopeful tomorrow. 
+Did you miss something here? Yes, I feel you missed a lot. The day went by too fast, that you forgot to smile with your neighbor, listen to the classic jazz beat playing in the background, and avoided the birds whistling sweet songs for you. You basically missed everything. Lucky for you, there is always hope for another day, where we can take u-turns as we please. 
 
 \\
 For a change, today, I encourage you to approach your start of the day one step at a time, and I promise positive results. At worst, you will miss all your morning emails and Facebook notifications. At best, you will discover something that been patiently waiting for you all this time – a new business partner or even your future spouse. You see, it really does matter. Take your time, in fact, take it one step at a time.
