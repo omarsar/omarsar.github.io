@@ -40,7 +40,7 @@
     {% for post in site.posts %}    
     <article>
       {% if post.type == "project" %}
-        <img src="{{post.image}}" href="{{site.url}}{{post.url}}"></img>
+        <img src="{{post.image}}"><a href="href="{{site.url}}{{post.url}}""></a></img>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
         {% else %}
