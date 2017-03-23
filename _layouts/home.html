@@ -36,11 +36,10 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Projects</a></h3>
+    <!--<h3><a href="{{ site.url}}/posts/">Recent Projects</a></h3>-->
     {% for post in site.posts %}    
     <article>
       {% if post.type == "project" %}
-        <img src="{{post.image}}"></img>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
         {% else %}
@@ -48,6 +47,7 @@
           <!--<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>-->
           <p class="byline"> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+        <img src="{{post.image}}" url="{{post.url}}"></img>
       {% endif %}
     </article>
     {% endfor %}
