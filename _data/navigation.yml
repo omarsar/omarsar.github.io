@@ -3,19 +3,19 @@
 - title: Blog
   url: /posts/
 
-- title: Activities
-  url: /activities/
+#- title: Activities
+# url: /activities/
 
 #- title: Bleets
 #  url: /bleets/
 
-- title: Research
-  url: /current/
+#- title: Research
+#  url: /current/
 
 - title: About
   url: /about/
 
-- title: My Books
+- title: Books
   url: /books/
 
 - title: Subscribe
