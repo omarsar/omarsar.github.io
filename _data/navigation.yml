@@ -12,20 +12,20 @@
 #- title: Research
 #  url: /current/
 
-- title: Projects
-  url: /projects/
+#- title: Projects
+#  url: /projects/
 
 - title: Books
   url: /books/
 
-- title: Courses
-  url: /books/
+#- title: Courses
+#  url: /books/
 
 - title: Bio
   url: /about/
 
-- title: Speaking
-  url: /books/
+#- title: Speaking
+#  url: /books/
 
 - title: Subscribe
   url: https://goo.gl/forms/zLiYBvLdsHo37Dei1
