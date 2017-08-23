@@ -41,7 +41,7 @@
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
-          <h3>{{ post.date | date: '%Y' }}</h3>
+          <!--<h3>{{ post.date | date: '%Y' }}</h3>-->
         {% endif %}
       {% endunless %}
       <article>
@@ -50,7 +50,7 @@
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <!--<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>-->
-          <p class="byline"> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+          <!--<p class="byline"> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>-->
         {% endif %}
 
       </article>
