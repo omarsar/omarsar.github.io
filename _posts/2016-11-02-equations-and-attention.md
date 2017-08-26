@@ -6,7 +6,7 @@ modified:
 comments: true
 excerpt: "Equations and Attention"
 tags: []
-image: rotate
+image: rotate.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/equations.jpg?raw=true "rotation dilemma")
