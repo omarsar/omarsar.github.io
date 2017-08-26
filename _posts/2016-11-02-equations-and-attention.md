@@ -8,7 +8,6 @@ excerpt: "Equations and Attention"
 tags: []
 image:
   thumb: rotate.jpg
-  feature: rotate.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/equations.jpg?raw=true "rotation dilemma")

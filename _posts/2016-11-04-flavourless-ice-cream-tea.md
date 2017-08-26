@@ -8,7 +8,6 @@ excerpt: "Ordering a mix of tea is more than just ordering a drink"
 tags: []
 image:
   thumb: tea.jpg
-  feature: tea.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/tea.jpg?raw=true "rotation dilemma")

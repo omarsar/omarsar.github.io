@@ -8,7 +8,6 @@ excerpt: "60 Days Away From Social Media"
 tags: []
 image:
   thumb: timerequests.png
-  feature: timerequests.png
 ---
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/timerequests.png?raw=true "Time Requests")
 

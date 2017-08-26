@@ -8,7 +8,6 @@ excerpt: "Feeling confident?"
 tags: []
 image:
   thumb: confidence.gif
-  feature: confidence.gif
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/confidence.gif?raw=true "Confidence")

@@ -8,7 +8,6 @@ excerpt: "Battle of the emotions"
 tags: []
 image:
   thumb: emotions.png
-  feature: emotions.png
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/emotions.png?raw=true "Emotions")

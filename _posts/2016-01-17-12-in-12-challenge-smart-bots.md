@@ -8,7 +8,6 @@ excerpt: "12 in 12 Challenge (Smart Bots)"
 tags: []
 image:
   thumb: bots.png
-  feature: bots.png
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/bots.png?raw=true "Near home")

@@ -8,7 +8,6 @@ excerpt: "Random Walk (Near Home)"
 tags: []
 image:
   thumb: near-home.jpg
-  feature: near-home.jpg
 ---
 
 Very near to my home in Taiwan:

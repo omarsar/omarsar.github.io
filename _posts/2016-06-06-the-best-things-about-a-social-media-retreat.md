@@ -8,7 +8,6 @@ excerpt: "The best things about a social media retreat"
 tags: []
 image:
   thumb: github_contributions.png
-  feature: github_contributions.png
 ---
 
 Roughly 2 months ago, I embarked on what could be referred to as a “social media retreat”. It has been more than 60 days since I've last visited any social network, including Facebook, Instagram and Twitter. In these 60 plus days, I've managed to recover at least 2 to 3 hours a day (including weekends), that is, I have recovered 120+ hours to add to my very limited working hours. To put things into perspective, these hours are equivalent to 15 full working days or half a month. That is mind-blowing – it feels like I've lived three months in two. What follows is the experience sharing of an enduring journey – one with severe time constraints. I will elucidate the concept of productivity and its counterparts, the problem of noise reduction and the quest for inner peace. All these points are random but essential to get the best out of yourself and to revitalize your focus and goals; they are the best things about a social media retreat.

@@ -8,7 +8,6 @@ excerpt: "Why you so UGLY Javascript? :speech_balloon:"
 tags: []
 image:
   thumb: javascript.png
-  feature: javascript.png
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/javascript.png?raw=true "Javascript")

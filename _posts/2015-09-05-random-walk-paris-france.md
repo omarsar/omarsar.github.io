@@ -8,7 +8,6 @@ excerpt: "Random Walk (Paris, France)"
 tags: []
 image:
   thumb: random-walk-paris.jpg
-  feature: random-walk-paris.jpg
 ---
 
 Beautiful Paris, France:

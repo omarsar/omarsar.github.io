@@ -8,7 +8,6 @@ excerpt: "Creative Research Paper Reading"
 tags: []
 image:
   thumb: creative_research_paper_reading.jpg
-  feature: creative_research_paper_reading.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/creative_research_paper_reading.jpg?raw=true "creative research paper reading")

@@ -8,7 +8,6 @@ excerpt: "Keeping up with my physical health"
 tags: []
 image:
   thumb: heart.png
-  feature: heart.png
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/heart.png?raw=true "Heart")
