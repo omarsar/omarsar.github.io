@@ -5,6 +5,6 @@ modified:
 categories: {{ dir }}
 excerpt:
 tags: []
-image: 
-  feature:
+image: {{ image }}
+  thumb: {{ thumb }}
 ---
