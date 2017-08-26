@@ -2,10 +2,13 @@
 layout: post
 title: "Golden State Bridge, California"
 author: billy_rick
-modified: 
+modified:
 comments: true
-excerpt: "Golden State Bridge, California :thought_balloon:"
+excerpt: "Golden State Bridge, California"
 tags: []
+image:
+  thumb: california.jpg
+  feature: california.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/california.jpg?raw=true "Golden State Bridge, California")

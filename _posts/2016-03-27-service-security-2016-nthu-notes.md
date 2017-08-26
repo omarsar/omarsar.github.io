@@ -4,13 +4,13 @@ title: "Service Security 2016 NTHU Notes"
 author: billy_rick
 modified: 2016-08-28
 comments: true
-excerpt: "Service Security 2016 NTHU Notes :lock:"
+excerpt: "Service Security 2016 NTHU Notes"
 tags: []
 ---
 
 ## Information Entropy
 1. Privacy vs Security (Panopticon (Psychologically affect humans))
-2. Information Security: Base 6 usage, can be used to represent a larger set of numbers. 
+2. Information Security: Base 6 usage, can be used to represent a larger set of numbers.
 3. The difficulty of compression: explain (Information is more valuabe based on how compressable it is/ not how meaningful it is to me)
 4. Predictability & Compressability define the Entropy of Information
 5. Wheather (atmospheric noise) -> the best way to randomize information
@@ -50,7 +50,7 @@ xxx.must_equal true
 
 ~~~
 
-Domain Specific Language (DSL)- looks like new code(methods) being embedded into a programming language 
+Domain Specific Language (DSL)- looks like new code(methods) being embedded into a programming language
 
 YAML: A form of serializing data
 
@@ -83,4 +83,4 @@ YAML: A form of serializing data
 ## Assignments ([Coded in Ruby](https://github.com/wisebits))
 1. Luhn Algorithm
 2. Permutation, Substitution and Double Transposition Ciphers
-3. Advanced Cryptography and Hashing 
+3. Advanced Cryptography and Hashing

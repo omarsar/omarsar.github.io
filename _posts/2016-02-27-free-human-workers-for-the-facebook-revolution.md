@@ -4,8 +4,11 @@ title: "Free Human Workers for the Facebook Revolution"
 author: billy_rick
 modified: 2016-08-28
 comments: true
-excerpt: "Free Human Workers for the Facebook Revolution :speech_balloon:"
+excerpt: "Free Human Workers for the Facebook Revolution"
 tags: []
+image:
+  thumb: reactions.jpg
+  feature: reactions.jpg
 ---
 
 In the world of data and machine learning, human annotators or workers — as referred to by some crowd-sourcing tools such as AMT (Amazon Mechanical Turk) — are more than essential. Data is useless if not labeled, somehow. Of course, there are the unsupervised ways of performing the labeling but I always question the reliability of such models (where computers are the middle man). What better than humans to label the data they create? But I am not here to discuss which of those methods is better since there is quiet enough literature to make you understand which flavor soothes your approach. I am more interested in the crowd-sourcing systems used and the experts we choose to annotate our data. One limitation of using such system is that it’s expensive and another is that it requires “experts.” For instance, as a worker I can’t imagine the amount of expertise required for labeling data in the field of medicine.  

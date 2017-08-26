@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Equations and Attention :chart_with_downwards_trend: :camera:"
+title: "Equations and Attention"
 author: billy_rick
 modified:
 comments: true

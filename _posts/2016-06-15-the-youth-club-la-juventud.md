@@ -4,8 +4,11 @@ title: "The youth club - La Juventud"
 author: billy_rick
 modified: 2016-08-28
 comments: true
-excerpt: "The youth club - La Juventud :speech_balloon: :soccer:"
+excerpt: "The youth club - La Juventud"
 tags: []
+image:
+  thumb: futsal/1.jpg
+  feature: futsal/1.jpg
 ---
 
 Back when I was home, in Belize, I used to be involved with a lot of community work. One of my long-term projects was the making of a Futsal team made up of young kids who didn't have as much opportunities as the rest. So I started a search in my village, gathered a few of them, and started to teach them about the sport of Futsal. New to the sport, I also felt extremely challenged about training and leading a bunch of random kids. Nevertheless, I embarked on this journey with the help of my dear wife and my younger brothers. After our first tournament, where we surprisingly clinched a third place in a very tough competition, I received great news that I was coming to Taiwan to undertake a master's degree in Computer Science. For the kids, it was devastating -- the news that I would be leaving them as their head coach. For me, it was a sad moment as I had developed a special bond with these kids.
@@ -75,8 +78,3 @@ Our head coach takes the responsiblity as head coach of the first Belize Nationa
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/futsal/12.jpg?raw=true "Github contributions")
 \\
 The dream becomes a reality
-
-
-
-
-

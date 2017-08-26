@@ -1,6 +1,6 @@
 ---
 layout: linear-regression-univariate
-title: "Chapter 1 - Linear Regression (One Variable) :book:"
+title: "Chapter 1 - Linear Regression (One Variable)"
 author: billy_rick
 modified:
 comments: true
