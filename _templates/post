@@ -7,4 +7,5 @@ excerpt:
 tags: []
 image: {{ image }}
   thumb: {{ thumb }}
+  feature: {{ feature }}
 ---
