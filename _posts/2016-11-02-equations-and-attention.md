@@ -2,10 +2,11 @@
 layout: post
 title: "Equations and Attention :chart_with_downwards_trend: :camera:"
 author: billy_rick
-modified: 
+modified:
 comments: true
 excerpt: "Equations and Attention"
 tags: []
+image: rotate
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/equations.jpg?raw=true "rotation dilemma")
