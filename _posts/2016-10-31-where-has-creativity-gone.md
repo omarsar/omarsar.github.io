@@ -6,6 +6,8 @@ modified:
 comments: true
 excerpt: "Where have all the creative juices gone?"
 tags: []
+image:
+  thumb: space.jpg
 ---
 
 Where have all the creative juices gone? Or should I say, where have the creative emotions gone? This start almost sounds like the beginning of a poorly written rap song. The truth of the matter is that nothing is being created right now. Not a line of code; not a painting; definitely not a song; not even reading which doesn’t require too many creative juices. The bottom line is that I need to bring back those creative juices and make them flow as they used to – elegantly, freely, and fiercely.

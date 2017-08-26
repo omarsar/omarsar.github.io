@@ -6,6 +6,8 @@ modified:
 comments: true
 excerpt: "Rotating an image should be as easy as cutting or deleting an image"
 tags: []
+image:
+  thumb: rotate.jpg
 ---
 
 ![alt text](https://github.com/omarsar/omarsar.github.io/blob/master/images/rotate.jpg?raw=true "rotation dilemma")
