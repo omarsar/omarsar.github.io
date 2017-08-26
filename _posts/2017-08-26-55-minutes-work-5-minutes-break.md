@@ -36,7 +36,6 @@ This functions as an alarm system. Slack has something similar, but it is not as
 \\
 The benefits of this simple life-hack are as follows:
 
-\\
 - I get a lot of work done— more than the usual
 - I take breaks, which I would otherwise forget to take or take too much of
 - I get all sorts of health benefits
@@ -53,5 +52,5 @@ By the way, this life-hack was inspired after I read this amazing book called: [
 \\
 The audio recording for this post is also available below:
 
-\\
+
 {% include video id="C6SGA58V_XM" provider="youtube" %}
