@@ -28,8 +28,8 @@
 #  url: /books/
 
 - title: Subscribe
-  url: https://goo.gl/forms/zLiYBvLdsHo37Dei1
+  url: /subscribe/
+  #url: https://goo.gl/forms/zLiYBvLdsHo37Dei1
 
 #- title: Theme Setup
 #  url: /theme-setup/
-
