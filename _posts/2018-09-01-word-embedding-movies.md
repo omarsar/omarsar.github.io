@@ -6,6 +6,8 @@ modified:
 comments: true
 excerpt: "Just saying hi!"
 tags: []
+image:
+  thumb: nlp.png
 ---
 
 Word Embedding on Movies
