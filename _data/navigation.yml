@@ -18,14 +18,16 @@
 - title: Books
   url: /books/
 
-- title: Resources
-  url: /resources/
+
 
 #- title: Courses
 #  url: /books/
 
 - title: Bio
   url: /about/
+
+- title: Resources
+  url: /resources/
 
 #- title: Speaking
 #  url: /books/
