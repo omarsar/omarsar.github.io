@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "What is a Tensor? | Friendly Data Science #1 (Part 1)"
+title: "What is a Tensor? | Friendly Data Science #1 (Part 2)"
 author: billy_rick
 modified:
 comments: true
-excerpt: "What is a Tensor? | Friendly Data Science #1 (Part 1)"
+excerpt: "What is a Tensor? | Friendly Data Science #1 (Part 2)"
 tags: []
 ---
 
