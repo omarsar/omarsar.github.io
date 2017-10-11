@@ -27,11 +27,11 @@ image:
 - Data Analytics & Visualization
 
 ## Publications
-- Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI2017, Taipei. (To appear).
+- Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (To appear).
 
 - Kuan-Ting Chen, Toby Liu, Elvis Saravia, and Yi-Shin Chen, *Automatic Beatmaps Generation for Electroacoustic Songs in Rhythm Games: an Audio Data-driven Approach*, In Proceedings of Electroacoustic Music Studies Network (EMS2017), 2017
 
-- Elvis Saravia, Shao-Chen Wu, and Yi-Shin Chen. *A Dynamic Influence Keyword Model for Identifying Implicit User Interests on Social Networks*, 2017 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017), Sydney, Australia
+- Elvis Saravia, Shao-Chen Wu, and Yi-Shin Chen. *A Dynamic Influence Keyword Model for Identifying Implicit User Interests on Social Networks*, 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017), Sydney, Australia
 
 - Elvis Saravia, Carlos Argueta, Yi-Shin Chen, *Unsupervised graph-based pattern extraction for multilingual emotion classification*, Soc. Netw. Anal. Min. (2016) 6: 92. doi:10.1007/s13278-016-0403-4 [:page_facing_up: read](http://bit.ly/2eAO7QS)
 
