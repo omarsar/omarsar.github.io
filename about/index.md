@@ -27,11 +27,17 @@ image:
 - Data Analytics & Visualization
 
 ## Publications
+- Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI2017, Taipei. (To appear).
+
+- Kuan-Ting Chen, Toby Liu, Elvis Saravia, and Yi-Shin Chen, *Automatic Beatmaps Generation for Electroacoustic Songs in Rhythm Games: an Audio Data-driven Approach*, In Proceedings of Electroacoustic Music Studies Network (EMS2017), 2017
+
+- Elvis Saravia, Shao-Chen Wu, and Yi-Shin Chen. *A Dynamic Influence Keyword Model for Identifying Implicit User Interests on Social Networks*, 2017 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017), Sydney, Australia
+
 - Elvis Saravia, Carlos Argueta, Yi-Shin Chen, *Unsupervised graph-based pattern extraction for multilingual emotion classification*, Soc. Netw. Anal. Min. (2016) 6: 92. doi:10.1007/s13278-016-0403-4 [:page_facing_up: read](http://bit.ly/2eAO7QS)
 
-- Chun-Hao Chang, Elvis Saravia, Yi-Shin Chen, *Subconscious Crowdsourcing: A Feasible Data Collection Mechanism for Mental Disorder Detection on Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA - (To appear)
+- Chun-Hao Chang, Elvis Saravia, Yi-Shin Chen, *Subconscious Crowdsourcing: A Feasible Data Collection Mechanism for Mental Disorder Detection on Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA
 
-- Elvis Saravia, Chun-Hao Chang, Renaud Jollet De Lorenzo, and Yi-Shin Chen, *MIDAS: Mental Illness Detection and Analysis via Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA - (To appear)
+- Elvis Saravia, Chun-Hao Chang, Renaud Jollet De Lorenzo, and Yi-Shin Chen, *MIDAS: Mental Illness Detection and Analysis via Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA
 
 - Carlos Argueta, Elvis Saravia, and Yi-Shin Chen, *Unsupervised Graph-Based Patterns Extraction for Emotion Classification*, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Acceptance Rate:18%), Paris, France - [:page_facing_up: read](http://bit.ly/1sjzq7T)
 
@@ -50,13 +56,13 @@ image:
 ## Certificates
 - Coursera Mentor Community and Training Course by Coursera Community Team on Coursera, July 2016 – [Link](http://bit.ly/29BwhGs)
 - Machine Learning Foundations: A Case Study Approach - University of Washington, 2016 – [Link](http://bit.ly/1Wbus7V)
-- Test of Chinese as a Foreign Language’s Listening and Reading Comprehension, 2014 – [Link](https://www.dropbox.com/s/veq0q7jtw203ykg/ELvis-Chinese%20Exam%20Certficate.pdf?dl=0) 
+- Test of Chinese as a Foreign Language’s Listening and Reading Comprehension, 2014 – [Link](https://www.dropbox.com/s/veq0q7jtw203ykg/ELvis-Chinese%20Exam%20Certficate.pdf?dl=0)
 - Intense Mandarin Course, NTHU, 2014 – [Link](https://www.dropbox.com/s/h1cm5ebfd953wl8/chinese%20exam%20diploma.pdf?dl=0)
 - Former Presiding Officer @ Belize General Elections, 2012
-- Basic Security Management Course, Taiwan-ICDF, 2012 – [Link](https://www.dropbox.com/s/qrqahsnymkpxtv9/basic_security_management.pdf?dl=0) 
+- Basic Security Management Course, Taiwan-ICDF, 2012 – [Link](https://www.dropbox.com/s/qrqahsnymkpxtv9/basic_security_management.pdf?dl=0)
 - Audit Login Matrix Workshop, CCAD~FCVI, 2012 – [Link](https://www.dropbox.com/s/eyg0ahcawk1dq0f/Audit_Logic_workshop.pdf?dl=0)
-- Improved Financial Management through Internal Control: A COSO Approach, IDB, 2011 – [Link](https://www.dropbox.com/s/zt9kqhz8rcoexir/Improving_financial_management.pdf?dl=0) 
-- Basic Web Design, Belize National ICT Center, 2011 – [Link](https://www.dropbox.com/s/qsq069j5su03gdw/Web_design.pdf?dl=0) 
+- Improved Financial Management through Internal Control: A COSO Approach, IDB, 2011 – [Link](https://www.dropbox.com/s/zt9kqhz8rcoexir/Improving_financial_management.pdf?dl=0)
+- Basic Web Design, Belize National ICT Center, 2011 – [Link](https://www.dropbox.com/s/qsq069j5su03gdw/Web_design.pdf?dl=0)
 - Performance (Value for Money) Audit Level 2 Workshop, CCAD~FCVI, 2010 – [Link](https://www.dropbox.com/s/ifp8ec2y92nvmvb/performance_vfm.pdf?dl=0)
 - Certificate of Excellence (CXC Examinations), 2004 – [Link](https://www.dropbox.com/s/6zpwus3nayvcsax/certificate%20of%20excellence.pdf?dl=0)   
 
@@ -70,7 +76,7 @@ image:
 - 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/ideamidas)
 - 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)
 - 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
-- 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS) 
+- 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS)
 - 2015 to present [:link: NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
 - 2010 to present (Founder) [:link: iBelmopan](http://bit.ly/1TSu3EY)
 - 2013 to present (Manager) [:link: Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
@@ -78,8 +84,3 @@ image:
 ## Other places where you can find my work
 - [:octocat: Github - Developer Community](http://bit.ly/1TJXsOY)
 - [:link: Kaggle - Machine Learning Community](http://bit.ly/1s55s6W)
-
-
-
-
-
