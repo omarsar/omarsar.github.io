@@ -54,6 +54,7 @@ image:
 - 2013 TaiwanICDF Scholarship ([On the News](http://bit.ly/1g0xbiE ))
 
 ## Certificates
+- Neural Networks and Deep Learning by Andrew Ng, Deeplearning.ai, October 2017 - [Link](https://www.coursera.org/account/accomplishments/certificate/ZRU889QBQFAS)
 - Coursera Mentor Community and Training Course by Coursera Community Team on Coursera, July 2016 – [Link](http://bit.ly/29BwhGs)
 - Machine Learning Foundations: A Case Study Approach - University of Washington, 2016 – [Link](http://bit.ly/1Wbus7V)
 - Test of Chinese as a Foreign Language’s Listening and Reading Comprehension, 2014 – [Link](https://www.dropbox.com/s/veq0q7jtw203ykg/ELvis-Chinese%20Exam%20Certficate.pdf?dl=0)
