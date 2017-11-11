@@ -7,5 +7,3 @@ comments: true
 excerpt: "Logistic Regression as Shallow Neural Network with Tensorflow"
 tags: []
 ---
-
-Here we show how to do logistic regression using Tensorflow. 
