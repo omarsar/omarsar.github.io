@@ -1,5 +1,5 @@
 ---
-layout: linear-regression-univariate
+layout: logistic-regression
 title: "Logistic Regression as Shallow Neural Network with Tensorflow"
 author: billy_rick
 modified:
