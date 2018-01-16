@@ -10,10 +10,10 @@
 #  url: /bleets/
 
 - title: Research
-#  url: /current/
+  url: /current/
 
 - title: Projects
-#  url: /projects/
+  url: /projects/
 
 - title: Books
   url: /books/
