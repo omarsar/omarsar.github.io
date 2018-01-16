@@ -3,6 +3,8 @@
 - title: Blog
   url: /posts/
 
+- title: About
+  url: /about/
 #- title: Activities
 # url: /activities/
 
@@ -23,8 +25,7 @@
 #- title: Courses
 #  url: /books/
 
-- title: About
-  url: /about/
+
 
 - title: Resources
   url: /resources/
