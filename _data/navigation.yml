@@ -9,10 +9,10 @@
 #- title: Bleets
 #  url: /bleets/
 
-#- title: Research
+- title: Research
 #  url: /current/
 
-#- title: Projects
+- title: Projects
 #  url: /projects/
 
 - title: Books
@@ -23,7 +23,7 @@
 #- title: Courses
 #  url: /books/
 
-- title: Bio
+- title: About
   url: /about/
 
 - title: Resources

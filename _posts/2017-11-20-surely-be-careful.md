@@ -22,4 +22,7 @@ Let's pay closer attention to what I am saying here. I am trying to say that the
 Psychologists say that more studies need to be conducted so as to explain why these type of biased words are used so often and in the contexts in which they are used -- even when we are aware of how inappropriate they are.
 
 \\
-So in the future, whenever you hear the word "surely", pay close attention to what's being claimed. Chances are that the person speaking may actually be showing some form of weakness, when in fact the word is used to obtain the opposite result -- confidence. Should we avoid using the word "surely?" When is it appropriate to use? What are our thoughts on this one?
+So in the future, whenever you hear the word "surely", pay close attention to what's being claimed. Chances are that the person speaking may actually be showing some form of weakness, when in fact the word is used to obtain the opposite result -- confidence. Should we avoid using the word "surely?" When is it appropriate to use? 
+
+\\
+What are your thoughts on this one?

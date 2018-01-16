@@ -26,8 +26,11 @@ image:
 - Pattern Recognition
 - Data Analytics & Visualization
 
-## Publications
+## Publications and Research
+
 - Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (To appear).
+
+- Elvis Saravia, Yi-Shin Chen, *Emotion Recognition: Towards Deep Learning and Deep Information Retrieval Models*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (PhD Symposium)
 
 - Kuan-Ting Chen, Toby Liu, Elvis Saravia, and Yi-Shin Chen, *Automatic Beatmaps Generation for Electroacoustic Songs in Rhythm Games: an Audio Data-driven Approach*, In Proceedings of Electroacoustic Music Studies Network (EMS2017), 2017
 
@@ -66,22 +69,3 @@ image:
 - Basic Web Design, Belize National ICT Center, 2011 – [Link](https://www.dropbox.com/s/qsq069j5su03gdw/Web_design.pdf?dl=0)
 - Performance (Value for Money) Audit Level 2 Workshop, CCAD~FCVI, 2010 – [Link](https://www.dropbox.com/s/ifp8ec2y92nvmvb/performance_vfm.pdf?dl=0)
 - Certificate of Excellence (CXC Examinations), 2004 – [Link](https://www.dropbox.com/s/6zpwus3nayvcsax/certificate%20of%20excellence.pdf?dl=0)   
-
-## Communities
-- 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
-- 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
-
-## Side Projects
-- 2016 (Co-Creator) [:octocat: Secure URL Shortner Service](https://github.com/wisebits/url-shortner)
-- 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
-- 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/ideamidas)
-- 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)
-- 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
-- 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS)
-- 2015 to present [:link: NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
-- 2010 to present (Founder) [:link: iBelmopan](http://bit.ly/1TSu3EY)
-- 2013 to present (Manager) [:link: Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
-
-## Other places where you can find my work
-- [:octocat: Github - Developer Community](http://bit.ly/1TJXsOY)
-- [:link: Kaggle - Machine Learning Community](http://bit.ly/1s55s6W)
