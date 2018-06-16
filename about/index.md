@@ -28,7 +28,7 @@ image:
 
 ## Publications and Research
 
-- Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (To appear).
+- Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. 
 
 - Elvis Saravia, Yi-Shin Chen, *Emotion Recognition: Towards Deep Learning and Deep Information Retrieval Models*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (PhD Symposium)
 
