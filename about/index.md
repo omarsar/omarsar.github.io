@@ -11,8 +11,8 @@ image:
 ---
 
 ## Education
-- PhD in Information Systems and Applications (current) - National Tsing Hua University, Hsinchu, Taiwan
-- Masters Degree in Infomation Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
+- PhD in Information Systems and Applications (candidate) - National Tsing Hua University, Hsinchu, Taiwan
+- Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 - Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 
 ## Research Interests
@@ -20,13 +20,18 @@ image:
 - Social Network Analysis and Mining
 - Sentiment Analysis
 - Artificial Intelligence
-- Mental Disorder Detection
+- Computational Health
 - Event Detection
 - User Interests Identification
 - Pattern Recognition
 - Data Analytics & Visualization
 
+## Research Profiles
+- :mortar_board: [Google Scholar](https://scholar.google.com.tw/citations?user=GTU6jHcAAAAJ&hl=en)
+- :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Elvis_Saravia)
+
 ## Publications and Research
+- Elvis Saravia, Hsien-Chi Toby Liu, Yi-Shin Chen *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018. 
 
 - Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. 
 
@@ -48,7 +53,7 @@ image:
 
 - Elvis Saravia, Yi-Shin Chen, *Inferring User Interests from Microblog Data through Opinion Mining*, National Tsing Hua University 2015 (Master Thesis). Please request via email (:envelope: ellfae@gmail.com)
 
-- Yi-Shin Chen, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. *"Concept-based event identification from social streams using evolving social graph sequences."* Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [:page_facing_up: read](http://bit.ly/1TBTiJ4)
+- Yi-Shin Chen, Yi-Cheng Peng, Jheng-He Liang, Elvis Saravia, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. *Concept-based event identification from social streams using evolving social graph sequences.* Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [:page_facing_up: read](http://bit.ly/1TBTiJ4)
 
 ## Awards and Honors
 - 2015 National Tsing Hua University International Student Scholarship (PhD in Information Systems and Applications)
