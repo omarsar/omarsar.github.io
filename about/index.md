@@ -31,7 +31,7 @@ image:
 - :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Elvis_Saravia)
 
 ## Publications and Research
-- Elvis Saravia, Hsien-Chi Toby Liu, Yi-Shin Chen *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018. 
+- Elvis Saravia, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018. 
 
 - Elvis Saravia, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. 
 
