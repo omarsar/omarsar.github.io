@@ -11,7 +11,7 @@ image:
 ---
 
 ## Education
-- PhD in Information Systems and Applications (candidate) - National Tsing Hua University, Hsinchu, Taiwan
+- PhD in Information Systems and Applications (candidate) - National Tsing Hua University, Hsinchu, Taiwan - (2015-2015 tentative)
 - Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 - Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 

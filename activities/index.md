@@ -11,7 +11,7 @@ image:
 ---
 
 ### Upcoming
-- Presenting new work on "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31 ~ November 4)
+- Presenting new paper entitled "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31 ~ November 4)
 - TA for Data Mining 2018 (Fall Semester - September)
 
 ### Past
