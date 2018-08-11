@@ -11,12 +11,11 @@ image:
 ---
 
 ### Upcoming
-- N/A
-
-### Now
-- Deep Learning for NLP: Tensorflow vs PyTorch - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
+- Presenting new work on "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31 ~ November 4)
+- TA for Data Mining 2018 (Fall Semester - September)
 
 ### Past
+- [Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
 - Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2017 [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
 - Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2016 [:link:](http://www.cs.nthu.edu.tw/~yishin/course.html)
 - The 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
