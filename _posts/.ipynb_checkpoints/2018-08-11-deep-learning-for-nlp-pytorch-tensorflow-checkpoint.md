@@ -14,4 +14,5 @@ In this talk, I discuss some of the best practices and latest trends in natural 
 {% include video id="xteaK6kSYnA" provider="youtube" %}
 
 
+\\
 [Slides](https://docs.google.com/presentation/d/1cf2H1qMvP1rdKUF5000ifOIRv1_b0bvj0ZTVL7-RaVE/edit?usp=sharing)

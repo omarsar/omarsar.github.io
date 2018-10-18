@@ -11,8 +11,8 @@ image:
 ---
 
 ### Upcoming
-- Presenting new paper entitled "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31 ~ November 4)
-- TA for Data Mining 2018 (Fall Semester - September)
+- [LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018
+- Oral presentation on paper entitled "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)
 
 ### Past
 - [Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
