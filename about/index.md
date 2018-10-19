@@ -11,7 +11,7 @@ image:
 ---
 
 ## Education
-- PhD in Information Systems and Applications (candidate) - National Tsing Hua University, Hsinchu, Taiwan - (2015-2019 tentative)
+- Information Systems and Applications (PhD Candidate) - National Tsing Hua University, Hsinchu, Taiwan -
 - Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 - Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 
@@ -33,9 +33,9 @@ image:
 ## Publications and Research
 - **Elvis Saravia**, Hsien-Chi Toby Liu, Yen-Hao Huang, Junlin Wu and Yi-Shin Chen, *CARER: Contextualized Affect Representations for Emotion Recognition*, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP2018), Belgium. (Long Paper Accepted & To Appear)
 
-- **Elvis Saravia**, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018. 
+- **Elvis Saravia**, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018.
 
-- **Elvis Saravia**, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. 
+- **Elvis Saravia**, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei.
 
 - **Elvis Saravia**, Yi-Shin Chen, *Emotion Recognition: Towards Deep Learning and Deep Information Retrieval Models*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (PhD Symposium)
 
@@ -57,12 +57,6 @@ image:
 
 - Yi-Shin Chen, Yi-Cheng Peng, Jheng-He Liang, **Elvis Saravia**, Fernando Calderon, Chung-Hao Chang, Ya-Ting Chuang, Tzu-Lung Chen, and Elizabeth Kwan. *Concept-based event identification from social streams using evolving social graph sequences.* Social Network Analysis and Mining 5, no. 1 (2015): 1-16. - [:page_facing_up: read](http://bit.ly/1TBTiJ4)
 
-## Awards and Honors
-- 2015 National Tsing Hua University International Student Scholarship (2015~2019)
-- 2015 Academia Sinica Scholarship
-- 2014 International Development Cooperation Student Paper Competition ([Papers selected for Conference](http://bit.ly/1g0wUfJ))
-- 2013 TaiwanICDF Scholarship ([On the News](http://bit.ly/1g0xbiE ))
-
 ## Certificates
 - Neural Networks and Deep Learning by Andrew Ng, Deeplearning.ai, October 2017 - [Link](https://www.coursera.org/account/accomplishments/certificate/ZRU889QBQFAS)
 - Coursera Mentor Community and Training Course by Coursera Community Team on Coursera, July 2016 – [Link](http://bit.ly/29BwhGs)
@@ -76,3 +70,27 @@ image:
 - Basic Web Design, Belize National ICT Center, 2011 – [Link](https://www.dropbox.com/s/qsq069j5su03gdw/Web_design.pdf?dl=0)
 - Performance (Value for Money) Audit Level 2 Workshop, CCAD~FCVI, 2010 – [Link](https://www.dropbox.com/s/ifp8ec2y92nvmvb/performance_vfm.pdf?dl=0)
 - Certificate of Excellence (CXC Examinations), 2004 – [Link](https://www.dropbox.com/s/6zpwus3nayvcsax/certificate%20of%20excellence.pdf?dl=0)   
+
+## Projects
+- 2018 (Creator) [Friendly Data Science (YouTube Series)](https://goo.gl/gcFo1i)
+- 2018 (Creator) [Life in Academia (Podcast)](https://goo.gl/LsM6jk)
+- 2018 (Creator) [Fundamentals of RNNs (Course)](https://goo.gl/jcbmk7)
+- 2018 (Creator) [The NLP Newsletter on GitHub](https://github.com/omarsar/nlp_newsletter)
+- 2017 (Creator) [Diverse Artificial Intelligence Research (DAIR.ai)](https://medium.com/dair-ai)
+- 2016 (Co-Creator) [:octocat: Secure URL Shortner Service](https://github.com/wisebits/url-shortner)
+- 2016 (Creator) [:blue_book: Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
+- 2016 (Creator) [:bar_chart: Mental Disorder Detection](http://bit.ly/ideamidas)
+- 2016 (Creator) [:smile: Multilingual Emotion Classifier](http://bit.ly/ilmeda)
+- 2015 (Creator) [:bar_chart: EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
+- 2015 to present (Founder) [:link: Kuai List](http://bit.ly/1N6LxfS)
+- 2015 to present [:link: NTHU Knowledge Hub](https://github.com/NTHU-Knowledge-Hub)
+- 2010 to present (Founder) [:link: iBelmopan](http://bit.ly/1TSu3EY)
+- 2013 to present (Manager) [:link: Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
+
+## Other places where you can find my work
+- [:octocat: Github - Developer Community](http://bit.ly/1TJXsOY)
+- [:link: Kaggle - Machine Learning Community](http://bit.ly/1s55s6W)
+
+## Communities
+- 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
+- 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)

@@ -5,6 +5,7 @@
 
 - title: About
   url: /about/
+
 - title: Activities
   url: /activities/
 
@@ -14,16 +15,16 @@
 - title: Research
   url: /current/
 
-- title: Projects
-  url: /projects/
+- title: DAIR.AI
+  url: https://medium.com/dair-ai
+#- title: Projects
+#  url: /projects/
 
-- title: Books
-  url: /books/
-
+#- title: Books
+#  url: /books/
 
 #- title: Courses
 #  url: /books/
-
 
 - title: Resources
   url: /resources/
