@@ -23,15 +23,15 @@ Presented NLP paper on ["CARER: Contextualized Affect Representations for Emotio
 [Photo credit](https://twitter.com/stjaco)
 
 \\
-Presented poster on "Building a Deep Affective Layer with PyTorch" at PyTorch Developer Conference in San Francisco, 2018. 
+Presented poster on "Building a Deep Affective Layer with PyTorch" at the first [PyTorch Developer Conference](https://pytorch.fbreg.com/) in San Francisco, 2018. 
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/pytorch_conf.png?raw=true)
-Find the complete poster [here](https://www.dropbox.com/s/rh3f6de498ccs5i/pytorch_conf.pdf?dl=0)
+*Find the complete poster [here](https://www.dropbox.com/s/rh3f6de498ccs5i/pytorch_conf.pdf?dl=0)*
 
 
 \\
-[Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
+Gave a tutorial on the topic of ["Deep Learning for NLP: Tensorflow vs PyTorch"](https://www.youtube.com/watch?v=xteaK6kSYnA) at [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018.
 
 
 {% include video id="xteaK6kSYnA" provider="youtube" %}
