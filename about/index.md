@@ -11,7 +11,7 @@ image:
 ---
 
 ## Research Statement
-Design, develop, and evaluate natural language processing and machine learning algorithms and models for exploring and understanding human behaviors from natural language such as *mental disorders*, *intent*, and *emotions*. Currently, as part of my dissertation, I am building an unified framework for text-based affective computing that makes use of multimodal representations to represent different aspects of emotional communication. The main research topics include but are not limited to *emotion recognition*, *sentiment analysis*, *intent discovery*, *mental disorder detection*, *music analysis*, and *computational health*.
+Design, develop, and evaluate natural language processing (NLP) and machine learning algorithms and models for exploring and understanding human behaviors from natural language such as *mental disorders*, *intent*, and *emotions*. Currently, as part of my dissertation, I am building an unified framework for text-based affective computing that makes use of multimodal representations to represent different aspects of emotional communication. The main research topics include but are not limited to *emotion recognition*, *sentiment analysis*, *intent discovery*, *mental disorder detection*, *music analysis*, and *computational health*. As future work, I aim to integrate affective computing into artificial intelligence (AI) and NLP technologies such as *personal assistants*, *recommendation systems*, and *conversational agents*. 
 
 ## Education
 - *Information Systems and Applications (PhD Candidate, 2015-2019) - National Tsing Hua University, Hsinchu, Taiwan*
