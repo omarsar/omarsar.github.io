@@ -38,31 +38,31 @@ Gave a tutorial on the topic of ["Deep Learning for NLP: Tensorflow vs PyTorch"]
 
 
 \\
-Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - (2016-current)
+Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills at National Tsing Hua University, Taiwan, (2016-current).
 
 {% include video id="O1TgWceH0TY" provider="youtube" %}
 
 
 \\
-[Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lightning Talk Speaker - Venturing into Social E-Commerce Platforms), 2015
+Gave a lightening talk called " Venturing into Social E-Commerce Platforms" at [Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan, 2015.
 
 {% include video id="53rHYs4_RoM" provider="youtube" %}
 
 
 \\
-[Let's Talk Databases - WebDev Meetup](https://www.facebook.com/events/841727325883157/), NTHU, Hsinchu Taiwan, 2015
+Delivered talk related to databases called [Let's Talk Databases](https://www.facebook.com/events/841727325883157/) for the 2nd WebDev Meetup at NTHU, Hsinchu Taiwan, 2015.
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/webdevmeetup.jpg?raw=true)
 
 \\
-[Venturing into Social E-Commerce Platforms (The Kuai List Story) - WebDev Meetup](https://www.facebook.com/events/1591656864411298/), NTHU, Hsinchu, Taiwan, 2015
+Delivered talk related to startups called [Venturing into Social E-Commerce Platforms (The Kuai List Story)](https://www.facebook.com/events/1591656864411298/) for the first WebDev Meetup hosted at NTHU, Hsinchu, Taiwan, 2015.
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/e-commerce.jpg?raw=true)
 
 \\
-[1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan, 2015
+Delivered talk related to data science and data analytics called [1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/) at NTHU, Hsinchu Taiwan, 2015.
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/visualizations.jpg?raw=true)
