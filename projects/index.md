@@ -132,19 +132,35 @@ In this project we extract and analyze global users' interests using social medi
 \\
 *Links:* [GitHub](https://github.com/omarsar/EmoViz), [Demo](http://emo-viz.herokuapp.com/)
 \\
-*Main Technologies:* 
+*Main Technologies:* Javascript, D3.js, HTML, CSS, among others.
 
-### 2015 to present (Founder) [Kuai List](http://bit.ly/1N6LxfS)
-
-
-### 2010 to present (Founder) [iBelmopan](http://bit.ly/1TSu3EY)
-
-
-### 2013 to present (Manager) [Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
+### Kuai List - 2015
+Kuai List was a social e-commerce website developed for the asian market. The service has been discontinued. 
 
 
 \\
-*Roles:* Founder and Previous Manager
+*Roles:* Founder and Developer
+\\
+*Main Technologies:* Ruby on Rails, React.js, PostgreSQL, DynamoDB, Python, Amazon Web Services, HTML, CSS, among others.
+
+### [iBelmopan - 2010](http://bit.ly/1TSu3EY)
+iBelmopan was a graphic designing and media company that designed infographics, visual interfaces, and marketing content. The company stopped operating since 2013.
+
+
+\\
+*Roles:* Founder & Art Lead
+\\
+*Links:* [Website](http://ibelmopan2.blogspot.com/)
+\\
+*Main Technologies:* Adobe Illustrator, Adobe Photoshop, Tableau, D3.js, among others. 
+
+### [Las Flores United FC - 2012](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
+Las Flores United FC, renamed to La Juventud FC, is a futsal team playing elite futsal in the country of Belize. The goal of this futsal club was to train kids to get an opportunity to play national competition and get a chance to join the national team. The team was founded in 2012 and continues to have success, winning major tournaments in the premier fustal competition year after year. 
+
+\\
+*Roles:* Founder and Previous Manager/Trainer
+\\
+*Links:* [Facebook Page](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
 
 ## Other places where you can find more of my work
 - [:octocat: Github - Developer Community](http://bit.ly/1TJXsOY)
