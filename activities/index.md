@@ -16,11 +16,19 @@ To inquire about hiring me as a speaker or writer, please drop me an email at *e
 [LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018
 
 ### Past Selected Talks
-Oral presentation on the paper entitled ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)
+Presented NLP paper on ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium, October 31, 2018 ~ November 4, 2018.
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/emnlp2018.jpg?raw=true)
 [Photo credit](https://twitter.com/stjaco)
+
+\\
+Presented poster on "Building a Deep Affective Layer with PyTorch" at PyTorch Developer Conference in San Francisco, 2018. 
+
+\\
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/pytorch_conf.png?raw=true)
+Find the complete poster [here](https://www.dropbox.com/s/rh3f6de498ccs5i/pytorch_conf.pdf?dl=0)
+
 
 \\
 [Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
