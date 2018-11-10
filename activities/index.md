@@ -36,25 +36,25 @@ To inquire about hiring me as a speaker or writer, please drop me at email at *e
 
 
 \\
-**[2015 Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lightning Talk Speaker - Venturing into Social E-Commerce Platforms)**
+**[Ruby Conference Taiwan](http://2015.rubyconf.tw/), H.S.S Building, Academia Sinica, Taipei, Taiwan (Lightning Talk Speaker - Venturing into Social E-Commerce Platforms), 2015**
 
 {% include video id="53rHYs4_RoM" provider="youtube" %}
 
 
 \\
-**[Let's Talk Databases - WebDev Meetup](https://www.facebook.com/events/841727325883157/), NTHU, Hsinchu Taiwan (Speaker)**
+**[Let's Talk Databases - WebDev Meetup](https://www.facebook.com/events/841727325883157/), NTHU, Hsinchu Taiwan, 2015**
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/webdevmeetup.jpg?raw=true)
 
 \\
-**[Venturing into Social E-Commerce Platforms (The Kuai List Story) - WebDev Meetup](https://www.facebook.com/events/1591656864411298/), NTHU, Hsinchu, Taiwan (Speaker)**
+**[Venturing into Social E-Commerce Platforms (The Kuai List Story) - WebDev Meetup](https://www.facebook.com/events/1591656864411298/), NTHU, Hsinchu, Taiwan, 2015**
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/e-commerce.jpg?raw=true)
 
 \\
-**[1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan (Speaker)**
+**[1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan, 2015**
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/visualizations.jpg?raw=true)

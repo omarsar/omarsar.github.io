@@ -77,7 +77,6 @@ Design, develop, and evaluate natural language processing (NLP) and machine lear
 ## Projects
 - 2018 (Co-Creator) [NLP Overview](https://nlpoverview.com/)
 - 2018 (Creator) [Friendly Data Science (YouTube Series)](https://goo.gl/gcFo1i)
-- 2018 (Creator) [Life in Academia (Podcast)](https://goo.gl/LsM6jk)
 - 2018 (Creator) [Fundamentals of RNNs (Course)](https://goo.gl/jcbmk7)
 - 2018 (Creator) [The NLP Newsletter on GitHub](https://github.com/omarsar/nlp_newsletter)
 - 2017 (Creator) [Diverse Artificial Intelligence Research (DAIR.ai)](https://medium.com/dair-ai)
