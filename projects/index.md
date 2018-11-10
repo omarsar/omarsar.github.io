@@ -20,23 +20,39 @@ This project contains an overview of recent trends in deep learning based natura
 \\
 *Links*: [Website](https://nlpoverview.com/), [GitHub](https://github.com/omarsar/nlp_overview), [Medium](https://medium.com/dair-ai/nlp-overview-an-integrated-platform-to-learn-about-modern-nlp-techniques-36eefe7062e0)
 \\
-*Technologies:* Kramdown, KATEX, CSS, HTML, GitHub Pages
+*Main Technologies:* Kramdown, KATEX, CSS, HTML, and GitHub Pages
 
 
 ### [Data Science (YouTube Series) - Creator, 2018](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
-From what's been said, machines are said to replace the human workforce in the next coming decade. In this series, I will explain to you why this may not be the case. In fact, this whole series focuses on how to take a humanistic approach in teaching machines how to properly solve tasks with high effectiveness. This involves imparting on machines ethical values and our common understanding of the world. I will explain in depth what I mean by these ideas as I go through the series. 
 
 {% include video id="D-9ysiYKSyk" provider="youtube" %}
 
 
 \\
-### 2018 (Creator) [Fundamentals of RNNs (Course)](https://goo.gl/jcbmk7)
+From what's been said, machines are said to replace the human workforce in the next coming decade. In this series, I will explain to you why this may not be the case. In fact, this whole series focuses on how to take a humanistic approach in teaching machines how to properly solve tasks with high effectiveness. This involves imparting on machines ethical values and our common understanding of the world. I will explain in depth what I mean by these ideas as I go through the series. 
 
 
-### 2018 (Creator) [The NLP Newsletter on GitHub](https://github.com/omarsar/nlp_newsletter)
+*Links:* [YouTube Channel](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ), [GitHub](https://github.com/omarsar/friendly_data_science)
+*Main Technologies:* Numpy and Python
 
+
+\\
+###  [The NLP Newsletter on GitHub - Creator, 2018](https://github.com/omarsar/nlp_newsletter)
+
+![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/nlp-news.png?raw=true)
+
+\\
+The NLP Newsletter provides a weekly issue that curates the most important natural language processing (NLP) and artificial intelligence (AI) news originating from both the industry and academia.
+
+\\
+*Links:* [Medium](https://medium.com/dair-ai/newsletter/home), [GitHub](https://github.com/omarsar/nlp_newsletter)
 
 ### 2017 (Creator) [Diverse Artificial Intelligence Research (DAIR.ai)](https://medium.com/dair-ai)
+
+![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/dair-ai.png?raw=true)
+
+\\
+dari.ai is a publication that aims to disseminate and communicate about AI technologies and research in a transparent manner.
 
 
 ### 2016 (Co-Creator) [:octocat: Secure URL Shortner Service](https://github.com/wisebits/url-shortner)
