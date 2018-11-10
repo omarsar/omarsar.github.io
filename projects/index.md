@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Projects
+title: Key Projects
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -10,10 +10,7 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-
-## Key Projects
-
-### NLP Overview - Co-Creator, 2018
+### [NLP Overview - Co-Creator, 2018](https://nlpoverview.com/)
 
 ![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/nlp_overview.gif?raw=true)
 
@@ -26,9 +23,13 @@ This project contains an overview of recent trends in deep learning based natura
 *Technologies:* Kramdown, KATEX, CSS, HTML, GitHub Pages
 
 
-### 2018 (Creator) [Friendly Data Science (YouTube Series)](https://goo.gl/gcFo1i)
+### [Data Science (YouTube Series) - Creator, 2018](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
+From what's been said, machines are said to replace the human workforce in the next coming decade. In this series, I will explain to you why this may not be the case. In fact, this whole series focuses on how to take a humanistic approach in teaching machines how to properly solve tasks with high effectiveness. This involves imparting on machines ethical values and our common understanding of the world. I will explain in depth what I mean by these ideas as I go through the series. 
+
+{% include video id="D-9ysiYKSyk" provider="youtube" %}
 
 
+\\
 ### 2018 (Creator) [Fundamentals of RNNs (Course)](https://goo.gl/jcbmk7)
 
 
@@ -64,10 +65,6 @@ This project contains an overview of recent trends in deep learning based natura
 
 ### 2013 to present (Manager) [:link: Las Flores United FC](https://www.facebook.com/pages/Las-Flores-United-FC/497355076975221?fref=ts)
 
-## Other places where you can find my work
+## Other places where you can find more of my work
 - [:octocat: Github - Developer Community](http://bit.ly/1TJXsOY)
 - [:link: Kaggle - Machine Learning Community](http://bit.ly/1s55s6W)
-
-## Communities
-- 2015 to present [IDEA-NTHU-Taiwan](https://github.com/IDEA-NTHU-Taiwan)
-- 2015 to present [Web Service Development @ NTHU](https://www.facebook.com/groups/ISS.SOAD/)
