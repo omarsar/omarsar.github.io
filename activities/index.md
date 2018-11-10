@@ -27,9 +27,11 @@ image:
 {% include video id="xteaK6kSYnA" provider="youtube" %}
 
 
+
 **Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - (2016-current)**
 
 {% include video id="O1TgWceH0TY" provider="youtube" %}
+
 
 
 - The 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
