@@ -108,11 +108,10 @@ In this research project we built an interface that connects to a machine learni
 
 ### [Multilingual Emotion Classifier - 2016](http://meda.herokuapp.com/)
 
-
 ![alt txt](https://github.com/omarsar/meda/raw/master/public/home.png)
 
 \\
-This is a simple web service used to classify text into its pertaining emotion. It works with languages such as English, Spanish and French. A Research project and demonstration presented in ASONAM 2015 conference.
+This project consists of a simple web service used to classify text into its pertaining emotion. It works with languages such as English, Spanish and French. A Research project and demonstration presented in ASONAM 2015 conference.
 
 \\
 *Roles:* Creator and Co-Author
@@ -121,8 +120,19 @@ This is a simple web service used to classify text into its pertaining emotion. 
 \\
 *Main Technologies:* Java, Python, Ruby Sinatra, NLTK, Twitter API, Scikit-learn, among others.
 
-### 2015 (Creator) [EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
+### [EmoViz - Twitter Emotion & Interest Analysis - 2015](http://emo-viz.herokuapp.com/)
 
+![alt txt](https://github.com/omarsar/EmoViz/raw/master/public/dashboard.png)
+
+\\
+In this project we extract and analyze global users' interests using social media data. 
+
+\\
+*Roles:* Creator and Co-Author
+\\
+*Links:* [GitHub](https://github.com/omarsar/EmoViz), [Demo](http://emo-viz.herokuapp.com/)
+\\
+*Main Technologies:* 
 
 ### 2015 to present (Founder) [Kuai List](http://bit.ly/1N6LxfS)
 
