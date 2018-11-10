@@ -144,7 +144,7 @@ Kuai List was a social e-commerce website developed for the asian market. The se
 *Main Technologies:* Ruby on Rails, React.js, PostgreSQL, DynamoDB, Python, Amazon Web Services, HTML, CSS, among others.
 
 ### [iBelmopan - 2010](http://bit.ly/1TSu3EY)
-iBelmopan was a graphic designing and media company that designed infographics, visual interfaces, and marketing content. The company stopped operating since 2013.
+iBelmopan was a graphic designing and media company that designed infographics, visual interfaces, and marketing content. The company stopped operating in 2013.
 
 
 \\
