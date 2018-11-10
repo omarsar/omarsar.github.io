@@ -10,7 +10,7 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-To inquire about hiring me as a speaker or writer, please drop me an email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I usually respond within a day.
+To inquire about hiring or inviting me as a speaker or writer, please drop me an email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I usually respond within a day.
 
 ### Upcoming Talks
 [LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Speaker and poster presentation, December 8, 2018
