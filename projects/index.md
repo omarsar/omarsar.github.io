@@ -23,7 +23,17 @@ This project contains an overview of recent trends in deep learning based natura
 *Main Technologies:* Kramdown, KATEX, CSS, HTML, and GitHub Pages
 
 
-### [Data Science (YouTube Series) - Creator, 2018](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
+### [Diverse Artificial Intelligence Research (dair.ai) - Editor and Founder, 2017-present](https://medium.com/dair-ai)
+
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/dair-ai.png?raw=true)
+
+\\
+dari.ai is a publication that aims to disseminate and communicate about AI technologies and research in a transparent manner.
+
+\\
+*Link:* [Medium](https://medium.com/dair-ai), [Website](http://dair.ai/)
+
+### [Data Science (YouTube Series) - Creator, 2017-present](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
 
 {% include video id="D-9ysiYKSyk" provider="youtube" %}
 
@@ -37,8 +47,7 @@ From what's been said, machines are said to replace the human workforce in the n
 *Main Technologies:* Numpy and Python
 
 
-\\
-###  [The NLP Newsletter on GitHub - Creator, 2018](https://github.com/omarsar/nlp_newsletter)
+###  [The NLP Newsletter on GitHub - Creator, 2017-present](https://github.com/omarsar/nlp_newsletter)
 
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/nlp-news.png?raw=true)
 
@@ -47,13 +56,6 @@ The NLP Newsletter provides a weekly issue that curates the most important natur
 
 \\
 *Links:* [Medium](https://medium.com/dair-ai/newsletter/home), [GitHub](https://github.com/omarsar/nlp_newsletter)
-
-### 2017 (Creator) [Diverse Artificial Intelligence Research (DAIR.ai)](https://medium.com/dair-ai)
-
-![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/dair-ai.png?raw=true)
-
-\\
-dari.ai is a publication that aims to disseminate and communicate about AI technologies and research in a transparent manner.
 
 
 ### 2016 (Co-Creator) [:octocat: Secure URL Shortner Service](https://github.com/wisebits/url-shortner)
