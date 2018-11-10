@@ -13,7 +13,7 @@ image:
 To inquire about hiring me as a speaker or writer, please drop me an email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I usually respond within a day.
 
 ### Upcoming Talks
-[LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018
+[LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Speaker and poster presentation, December 8, 2018
 
 ### Past Selected Talks
 Presented NLP paper on ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium, October 31, 2018 ~ November 4, 2018.
@@ -41,6 +41,13 @@ Gave a tutorial on the topic of ["Deep Learning for NLP: Tensorflow vs PyTorch"]
 Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills at National Tsing Hua University, Taiwan, (2016-current).
 
 {% include video id="O1TgWceH0TY" provider="youtube" %}
+
+
+\\
+Delivered special lecture on ["Deep Learning applied to NLP for Sentence Classification"](https://github.com/omarsar/text_mining_lab_2017) for [UNITEC-NTHU Summer School](https://sites.google.com/site/unitecnthusummerschool2017/) at NTHU, Hsinchu, Taiwan, 2017.
+
+\\
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/nlp_2017.png?raw=true)
 
 
 \\
