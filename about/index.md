@@ -10,13 +10,13 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-## Education
-- Information Systems and Applications (PhD Candidate) - National Tsing Hua University, Hsinchu, Taiwan -
-- Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
-- Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
-
 ## Research Statement
 Design, develop, and evaluate natural language processing and machine learning algorithms and models for exploring and understanding human behaviors from natural language such as *mental disorders*, *intent*, and *emotions*. Currently, as part of my dissertation, I am building an unified framework for text-based affective computing that makes use of multimodal representations to represent different aspects of emotional communication. The main research topics include but are not limited to *emotion recognition*, *sentiment analysis*, *intent discovery*, *mental disorder detection*, *music analysis*, and *computational health*.
+
+## Education
+- *Information Systems and Applications (PhD Candidate, 2015-2019) - National Tsing Hua University, Hsinchu, Taiwan*
+- Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
+- Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 
 ## Research Interests
 - Natural Language Processing
@@ -38,19 +38,19 @@ Design, develop, and evaluate natural language processing and machine learning a
 
 - **Elvis Saravia**, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018.
 
-- **Elvis Saravia**, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei.
+- **Elvis Saravia**, Adam Liu, Yi-Shin Chen, *Clustering Social News based on User Affection*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. ([Paper](https://ieeexplore.ieee.org/document/8356894))
 
 - **Elvis Saravia**, Yi-Shin Chen, *Emotion Recognition: Towards Deep Learning and Deep Information Retrieval Models*, Conference on Technologies and Applications of Artificial Intelligence, TAAI, 2017, Taipei. (PhD Symposium)
 
 - Kuan-Ting Chen, Toby Liu, **Elvis Saravia**, and Yi-Shin Chen, *Automatic Beatmaps Generation for Electroacoustic Songs in Rhythm Games: an Audio Data-driven Approach*, In Proceedings of Electroacoustic Music Studies Network (EMS2017), 2017, Japan. (Abstract)
 
-- **Elvis Saravia**, Shao-Chen Wu, and Yi-Shin Chen. *A Dynamic Influence Keyword Model for Identifying Implicit User Interests on Social Networks*, 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017), Sydney, Australia.
+- **Elvis Saravia**, Shao-Chen Wu, and Yi-Shin Chen. *A Dynamic Influence Keyword Model for Identifying Implicit User Interests on Social Networks*, 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017), Sydney, Australia. ([Paper](https://dl.acm.org/citation.cfm?doid=3110025.3120987))
 
 - **Elvis Saravia**, Carlos Argueta, Yi-Shin Chen, *Unsupervised graph-based pattern extraction for multilingual emotion classification*, Soc. Netw. Anal. Min. (2016) 6: 92. doi:10.1007/s13278-016-0403-4 [:page_facing_up: read](http://bit.ly/2eAO7QS)
 
-- Chun-Hao Chang, **Elvis Saravia**, Yi-Shin Chen, *Subconscious Crowdsourcing: A Feasible Data Collection Mechanism for Mental Disorder Detection on Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA.
+- Chun-Hao Chang, **Elvis Saravia**, Yi-Shin Chen, *Subconscious Crowdsourcing: A Feasible Data Collection Mechanism for Mental Disorder Detection on Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA. ([Paper](https://ieeexplore.ieee.org/document/7752261))
 
-- **Elvis Saravia**, Chun-Hao Chang, Renaud Jollet De Lorenzo, and Yi-Shin Chen, *MIDAS: Mental Illness Detection and Analysis via Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA.
+- **Elvis Saravia**, Chun-Hao Chang, Renaud Jollet De Lorenzo, and Yi-Shin Chen, *MIDAS: Mental Illness Detection and Analysis via Social Media*, 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016), San Fransisco, CA, USA. ([Paper](https://ieeexplore.ieee.org/document/7752434))
 
 - Carlos Argueta, **Elvis Saravia**, and Yi-Shin Chen, *Unsupervised Graph-Based Patterns Extraction for Emotion Classification*, 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2015, Acceptance Rate:18%), Paris, France - [:page_facing_up: read](http://bit.ly/1sjzq7T)
 
@@ -75,6 +75,7 @@ Design, develop, and evaluate natural language processing and machine learning a
 - Certificate of Excellence (CXC Examinations), 2004 – [Link](https://www.dropbox.com/s/6zpwus3nayvcsax/certificate%20of%20excellence.pdf?dl=0)   
 
 ## Projects
+- 2018 (Co-Creator) [NLP Overview](https://nlpoverview.com/)
 - 2018 (Creator) [Friendly Data Science (YouTube Series)](https://goo.gl/gcFo1i)
 - 2018 (Creator) [Life in Academia (Podcast)](https://goo.gl/LsM6jk)
 - 2018 (Creator) [Fundamentals of RNNs (Course)](https://goo.gl/jcbmk7)
