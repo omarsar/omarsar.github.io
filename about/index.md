@@ -15,15 +15,18 @@ image:
 - Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 - Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 
+## Research Statement
+Design, develop, and evaluate natural language processing and machine learning algorithms and models for exploring and understanding human behaviors from natural language such as *mental disorders*, *intent*, and *emotions*. Currently, as part of my dissertation, I am building an unified framework for text-based affective computing that makes use of multimodal representations to represent different aspects of emotional communication. The main research topics include but are not limited to *emotion recognition*, *sentiment analysis*, *intent discovery*, *mental disorder detection*, *music analysis*, and *computational health*.
+
 ## Research Interests
 - Natural Language Processing
+- Deep Learning
+- Affective Computing (Sentiment Analysis & Emotion Recognition)
 - Machine Learning
 - Social Network Analysis and Mining
-- Affective Computing (Sentiment Analysis & Emotion Recognition)
-- Deep Learning
 - Computational Health
 - News and Events Analysis
-- User Interests Identification
+- Intent Identification
 - Data Analytics & Visualization
 
 ## Research Profiles
@@ -31,7 +34,7 @@ image:
 - :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Elvis_Saravia)
 
 ## Publications and Research
-- **Elvis Saravia**, Hsien-Chi Toby Liu, Yen-Hao Huang, Junlin Wu and Yi-Shin Chen, *CARER: Contextualized Affect Representations for Emotion Recognition*, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP2018), Belgium. (Long Paper Accepted & To Appear)
+- **Elvis Saravia**, Hsien-Chi Toby Liu, Yen-Hao Huang, Junlin Wu and Yi-Shin Chen, *CARER: Contextualized Affect Representations for Emotion Recognition*, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP2018), Belgium. (Long paper accepted as oral presentation -- ~25% acceptance rate). ([Paper](https://aclanthology.info/papers/D18-1404/d18-1404) | [Slides](https://docs.google.com/presentation/d/1CBYx4VNRuHOrVIK8LDP9vi2id5X8nM1nF4qLoG0ujpU/edit?usp=sharing))
 
 - **Elvis Saravia**, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018.
 
