@@ -12,9 +12,13 @@ image:
 
 ### Upcoming
 - [LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018
-- Oral presentation on paper entitled "CARER: Contextualized Affect Representations for Emotion Recognition" at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)
 
 ### Past
+- Oral presentation on the paper entitled ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)
+
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/images/emnlp2018.jpg)
+[Photo credit](https://twitter.com/stjaco)
+
 - [Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)
 - Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2017 [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
 - Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2016 [:link:](http://www.cs.nthu.edu.tw/~yishin/course.html)
