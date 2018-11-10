@@ -12,8 +12,8 @@
 #- title: Bleets
 #  url: /bleets/
 
-#- title: Research
-#  url: /current/
+- title: Projects
+  url: /projects/
 
 - title: DAIR.AI
   url: https://medium.com/dair-ai
