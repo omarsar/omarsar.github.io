@@ -12,10 +12,10 @@ image:
 
 To inquire about hiring me as a speaker or writer, please drop me at email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I usually respond within a day.
 
-### Upcoming
+### Upcoming Talks
 **[LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018**
 
-### Past
+### Past Selected Talks
 **Oral presentation on the paper entitled ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)**
 
 \\
@@ -45,6 +45,8 @@ To inquire about hiring me as a speaker or writer, please drop me at email at *e
 **[ASONAM 2015 (The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining)](http://asonam.cpsc.ucalgary.ca/2015/), Paris, France (Speaker)**
 
 
+
+\\
 **[Let's Talk Databases - WebDev Meetup](https://www.facebook.com/events/841727325883157/), NTHU, Hsinchu Taiwan (Speaker)**
 
 \\
@@ -56,7 +58,7 @@ To inquire about hiring me as a speaker or writer, please drop me at email at *e
 \\
 ![alt txt]()
 
-
+\\
 **[1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan (Speaker)**
 
 \\
