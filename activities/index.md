@@ -16,14 +16,17 @@ image:
 ### Past
 **Oral presentation on the paper entitled ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium (October 31, 2018 ~ November 4, 2018)**
 
+\\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/emnlp2018.jpg?raw=true)
 [Photo credit](https://twitter.com/stjaco)
 
 \\
 **[Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)**
 
+\\
 {% include video id="xteaK6kSYnA" provider="youtube" %}
 
+\\
 - Teacher Assistant (TA) for Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2017 [:link:](http://www.cs.nthu.edu.tw/~yishin/courses/ISA6882/ISA6882-2017.html)
 - Teacher Assistant (TA) for Data Mining, Advanced Database Management Systems, and Research and Presentation Skills @ National Tsing Hua University, Taiwan - 2016 [:link:](http://www.cs.nthu.edu.tw/~yishin/course.html)
 - The 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
