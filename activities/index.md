@@ -23,7 +23,7 @@ image:
 \\
 **[Deep Learning for NLP: Tensorflow vs PyTorch](https://www.youtube.com/watch?v=xteaK6kSYnA) - [PyConTW2018](https://tw.pycon.org/2018/en-us/events/talk/595815827790364848/), Taipei, Taiwan, June 1-2, 2018 (Speaker)**
 
-\\
+
 {% include video id="xteaK6kSYnA" provider="youtube" %}
 
 \\
