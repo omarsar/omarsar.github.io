@@ -31,15 +31,16 @@ This project contains an overview of recent trends in deep learning based natura
 \\
 From what's been said, machines are said to replace the human workforce in the next coming decade. In this series, I will explain to you why this may not be the case. In fact, this whole series focuses on how to take a humanistic approach in teaching machines how to properly solve tasks with high effectiveness. This involves imparting on machines ethical values and our common understanding of the world. I will explain in depth what I mean by these ideas as I go through the series. 
 
-
+\\
 *Links:* [YouTube Channel](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ), [GitHub](https://github.com/omarsar/friendly_data_science)
+\\
 *Main Technologies:* Numpy and Python
 
 
 \\
 ###  [The NLP Newsletter on GitHub - Creator, 2018](https://github.com/omarsar/nlp_newsletter)
 
-![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/nlp-news.png?raw=true)
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/nlp-news.png?raw=true)
 
 \\
 The NLP Newsletter provides a weekly issue that curates the most important natural language processing (NLP) and artificial intelligence (AI) news originating from both the industry and academia.
@@ -49,7 +50,7 @@ The NLP Newsletter provides a weekly issue that curates the most important natur
 
 ### 2017 (Creator) [Diverse Artificial Intelligence Research (DAIR.ai)](https://medium.com/dair-ai)
 
-![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/dair-ai.png?raw=true)
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/dair-ai.png?raw=true)
 
 \\
 dari.ai is a publication that aims to disseminate and communicate about AI technologies and research in a transparent manner.
