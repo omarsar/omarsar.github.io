@@ -39,7 +39,7 @@ dari.ai is a publication that aims to communicate and educate about AI technolog
 \\
 *Link:* [Medium](https://medium.com/dair-ai), [Website](http://dair.ai/)
 \\
-*Main Technologies:* PyTorch, TensorFlow, Keras, Plotly, spaCy, NLTK, Scikit-learn, Numpy, among others.
+*Main Technologies:* PyTorch, TensorFlow, Python, Elasticsearch, Keras, Plotly, spaCy, NLTK, Scikit-learn, Numpy, among others.
 
 
 ### [Data Science (YouTube Series) - 2017](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
@@ -79,6 +79,7 @@ The NLP Newsletter provides a weekly issue that curates the most important natur
 
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/url-shortner.png?raw=true)
 
+\\
 An URL shortner is a service that basically renders a shorter url for the one being provided (usually long). In this project, we implemented this service in a secure way that allows users to auto-generate a short URL that is secure and shareable among users with proper permission. Additionally, authors and users with the proper permission are able to access a dashboard to obtain insights into the traffic information pertaining to the URL provided. For this classroom project we applied best practices in microservices architecture and service security to build both a secure API and front-end application.
 
 \\
@@ -88,14 +89,37 @@ An URL shortner is a service that basically renders a shorter url for the one be
 \\
 *Main Technologies:* HighCharts, Ruby Sinatra, PostgreSQL, HTML, CSS, among others. 
 
-### 2016 (Creator) [Research and Presentation Skills: The Handbook](http://bit.ly/1NsSI3O)
+
+### [Online Mental Disorder Detection - 2016](https://github.com/omarsar/midas_api)
+
+{% include video id="4PYhazJ3k7w" provider="youtube" %}
 
 
-### 2016 (Creator) [Mental Disorder Detection](http://bit.ly/ideamidas)
+\\
+In this research project we built an interface that connects to a machine learning based API and allows a user to conduct natural language inference and analyze mental health signals from social media profiles. 
 
 
-### 2016 (Creator) [ Multilingual Emotion Classifier](http://bit.ly/ilmeda)
+\\
+*Roles:* Co-Creator, Co-Author, and Co-Developer
+\\
+*Links:* [GitHub](https://github.com/omarsar/midas_api), [Demo](https://www.youtube.com/watch?v=4PYhazJ3k7w&t=179s)
+\\
+*Main Technologies:* Flask, Python, Javascript, HighCharts, Ruby Sinatra, NLTK, Twitter API, Scikit-learn, among others.
 
+### [Multilingual Emotion Classifier - 2016](http://meda.herokuapp.com/)
+
+
+![alt txt](https://github.com/omarsar/meda/raw/master/public/home.png)
+
+\\
+This is a simple web service used to classify text into its pertaining emotion. It works with languages such as English, Spanish and French. A Research project and demonstration presented in ASONAM 2015 conference.
+
+\\
+*Roles:* Creator and Co-Author
+\\
+*Links:* [GitHub](https://github.com/omarsar/meda), [Demo](http://meda.herokuapp.com/)
+\\
+*Main Technologies:* Java, Python, Ruby Sinatra, NLTK, Twitter API, Scikit-learn, among others.
 
 ### 2015 (Creator) [EmoViz - Twitter Emotion & Interest Analysis](http://bit.ly/emoviz)
 
