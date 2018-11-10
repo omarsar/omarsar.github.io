@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Speaking
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -9,6 +9,8 @@ image:
   credit: iBelmopan
   creditlink: http://www.ibelmopan.com/
 ---
+
+To inquire about hiring me as a speaker or writer, please drop me at email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I usually respond within a day.
 
 ### Upcoming
 **[LatinX in AI Coalition](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Quebec, Canada - Oral and poster presentation, December 8, 2018**
@@ -45,11 +47,19 @@ image:
 
 **[Let's Talk Databases - WebDev Meetup](https://www.facebook.com/events/841727325883157/), NTHU, Hsinchu Taiwan (Speaker)**
 
+\\
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/webdevmeetup.jpg?raw=true)
 
+\\
 **[Venturing into Social E-Commerce Platforms (The Kuai List Story) - WebDev Meetup](https://www.facebook.com/events/1591656864411298/), NTHU, Hsinchu, Taiwan (Speaker)**
 
-**[1st Data Science Meetup](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan (Speaker)**
+\\
+![alt txt]()
 
 
+**[1st Data Science Meetup - D3 vs. Tableau](https://www.facebook.com/events/1430476117250104/), NTHU, Hsinchu Taiwan (Speaker)**
+
+\\
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/visualizations.jpg?raw=true)
 
 
