@@ -13,12 +13,16 @@ image:
 
 ## Key Projects
 
-### [NLP Overview] - Co-Creator, 2018
+### NLP Overview - Co-Creator, 2018
 
 ![alt txt](https://github.com/omarsar/nlp_overview/blob/master/img/nlp_overview.gif?raw=true)
 
-This project contains an overview of recent trends in deep learning based natural language processing (NLP). It covers the theoretical descriptions and implementation details behind deep learning models, such as recurrent neural networks (RNNs), convolutional neural networks (CNNs), and reinforcement learning, used to solve various NLP tasks and applications. The overview also contains a summary of state of the art results for NLP tasks such as machine translation, question answering, and dialogue systems. ([Website](https://nlpoverview.com/), [GitHub](https://github.com/omarsar/nlp_overview), [Medium](https://medium.com/dair-ai/nlp-overview-an-integrated-platform-to-learn-about-modern-nlp-techniques-36eefe7062e0))
+\\
+This project contains an overview of recent trends in deep learning based natural language processing (NLP). It covers the theoretical descriptions and implementation details behind deep learning models, such as recurrent neural networks (RNNs), convolutional neural networks (CNNs), and reinforcement learning, used to solve various NLP tasks and applications. The overview also contains a summary of state of the art results for NLP tasks such as machine translation, question answering, and dialogue systems. 
 
+\\
+*Links*: [Website](https://nlpoverview.com/), [GitHub](https://github.com/omarsar/nlp_overview), [Medium](https://medium.com/dair-ai/nlp-overview-an-integrated-platform-to-learn-about-modern-nlp-techniques-36eefe7062e0)
+\\
 *Technologies:* Kramdown, KATEX, CSS, HTML, GitHub Pages
 
 
