@@ -34,8 +34,6 @@ Design, develop, and evaluate natural language processing (NLP) and machine lear
 - :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Elvis_Saravia)
 
 ## Publications and Research
-- **Elvis Saravia**, Hsien-Chi Toby Liu, Yen-Hao Huang, Junlin Wu and Yi-Shin Chen, *Contextualized Affect Representations for Emotion Recognition*, Latinx in AI Coalition at Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018. *Abstract accepted as oral and poster presentation*. [More information](http://www.latinxinai.org/nips-2018-presenters)
-
 - **Elvis Saravia**, Hsien-Chi Toby Liu, Yen-Hao Huang, Junlin Wu and Yi-Shin Chen, *CARER: Contextualized Affect Representations for Emotion Recognition*, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP2018), Belgium. *Long paper accepted as oral presentation*. ([Paper](https://aclanthology.info/papers/D18-1404/d18-1404), [Slides](https://docs.google.com/presentation/d/1CBYx4VNRuHOrVIK8LDP9vi2id5X8nM1nF4qLoG0ujpU/edit?usp=sharing))
 
 - **Elvis Saravia**, Hsien-Chi Toby Liu, Yi-Shin Chen, *DeepEmo: Learning and Enriching Pattern-Based Emotion Representations* [arXiv:1804.08847](https://arxiv.org/abs/1804.08847), 2018.
