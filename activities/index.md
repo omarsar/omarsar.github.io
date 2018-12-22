@@ -12,8 +12,14 @@ image:
 
 To inquire about inviting or hiring me as a speaker or writer, please drop me an email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I typically respond within a day.
 
-### Upcoming Talks
-[LatinX in AI Coalition at NeurIPS](http://www.latinxinai.org/nips-2018-presenters) at NIPS conference in Montreal, Canada - Oral and poster presentation, December 8, 2018
+### Upcoming Talks, Events, and Events
+[TensorFlow Dev Summit 2019](https://www.tensorflow.org/dev-summit/) in Sunnyvale, CA at the Google Event Center on March 6-7th
+
+### Past Selected Talks
+[LatinX in AI Coalition at NeurIPS](http://www.latinxinai.org/nips-2018-presenters) at NeurIPS conference in Montreal, Canada - Oral and poster presentation, December 8, 2018
+
+\\
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/latinx.jpg?raw=true)
 
 \\
 Meetup on [Applied Deep Learning for NLP Using PyTorch](https://www.eventbrite.com/e/applied-deep-learning-for-nlp-using-pytorch-tickets-52773928240) hosted by [AppWorks](https://appworks.tw/), Taiwan, November 27, 2018.
@@ -21,7 +27,7 @@ Meetup on [Applied Deep Learning for NLP Using PyTorch](https://www.eventbrite.c
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/appworksnlp.jpg?raw=true)
 
-### Past Selected Talks
+\\
 Presented NLP paper on ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.info/papers/D18-1404/d18-1404) at the [EMNLP2018](http://emnlp2018.org/) conference in Brussels, Belgium, October 31, 2018 ~ November 4, 2018.
 
 \\
