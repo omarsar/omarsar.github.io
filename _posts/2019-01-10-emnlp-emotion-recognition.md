@@ -10,9 +10,9 @@ image:
   thumb: emnlp2018-emotion-recognition.png
 ---
 
-![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/sa_bias/emnlp2018-emotion-recognition.png?raw=true)
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/emnlp2018-emotion-recognition.png?raw=true)
 
-
+\\
 This is an oral presentation I delivered in Brussels, Belgium at the EMNLP 2018 conference for the paper ["CARER: Contextualized Affect Representations for Emotion Recognition"](https://aclanthology.coli.uni-saarland.de/papers/D18-1404/d18-1404)
 
 
@@ -22,4 +22,6 @@ Emotions are expressed in nuanced ways, which varies by collective or individual
 
 \\
 [Link to Video](https://vimeo.com/306129121)
+
+\\
 [Link to Paper](https://aclanthology.coli.uni-saarland.de/papers/D18-1404/d18-1404)
