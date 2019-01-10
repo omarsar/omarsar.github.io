@@ -10,7 +10,7 @@ image:
   thumb: 2018-nlp-highlights.png
 ---
 
-![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/sa_bias/2018-nlp-highlights.png?raw=true)
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/2018-nlp-highlights.png?raw=true)
 
 \\
 It has been a big year for the field of natural language processing (NLP) and for machine learning as a whole. There have been many trends and breaking stories, with state-of-the-art results and new interesting research directions emerging. We owe all of this progress to the brilliant researchers around the world and the millions of developers devoting their full time to improve tools that make it easier for everyone to learn and progress the field. We have witnessed a rise in transfer learning and other niche areas of research such as AI Ethics.
@@ -25,7 +25,7 @@ In this report, I have provided a summary of all the biggest NLP stories of the 
 Below is a preview of the table of contents inside the report:
 
 \\
-![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/sa_bias/nlp-2018-toc.png?raw=true)
+![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/nlp-2018-toc.png?raw=true)
 
 \\
 And finally...
