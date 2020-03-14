@@ -10,12 +10,15 @@ image:
   creditlink: http://www.ibelmopan.com/
 ---
 
-To inquire about inviting or hiring me as a speaker or writer, please drop me an email at *ellfae@gmail.com* or send me a direct message on Twitter ([@omarsar0](https://twitter.com/omarsar0)). I typically respond within a day.
 
 ### Upcoming Talks and Events
-**[TensorFlow Dev Summit 2019](https://www.tensorflow.org/dev-summit/) in Sunnyvale, CA at the Google Event Center on March 6-7th**
+[ODSC Boston](https://odsc.com/speakers/applied-deep-learning-for-nlp-applications/)
+
 
 ### Past Selected Talks
+
+**[PyCon US 2019](https://www.youtube.com/watch?v=VBM1u-UIoI0)**
+
 **[LatinX in AI Coalition at NeurIPS](http://www.latinxinai.org/nips-2018-presenters) at NeurIPS conference in Montreal, Canada - Oral and poster presentation, December 8, 2018**
 
 \\
@@ -85,5 +88,3 @@ To inquire about inviting or hiring me as a speaker or writer, please drop me an
 
 \\
 ![alt txt](https://github.com/omarsar/omarsar.github.io/blob/master/images/visualizations.jpg?raw=true)
-
-

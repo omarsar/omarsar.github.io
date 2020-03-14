@@ -13,8 +13,12 @@ image:
 ## Research Statement
 Design, develop, and evaluate natural language processing (NLP) and machine learning algorithms and models for exploring and understanding human behaviors from natural language such as *online mental disorders*, *intent*, and *emotions*. Currently, as part of my dissertation, I am building a unified framework for text-based affective computing that makes use of multimodal representations to represent different aspects of emotional communication. The main research topics include but are not limited to *emotion recognition*, *sentiment analysis*, *intent discovery*, *mental disorder detection*, *music analysis*, and *computational health*. As future work, I aim to integrate affective computing techniques into artificial intelligence (AI) and NLP technologies such as *personal assistants*, *recommendation systems*, and *conversational agents*.  This year I am part of the program committee for the [LatinX in AI Workshop @ NeurIPS](http://www.latinxinai.org/neurips-2018) and the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2019](https://naacl2019.org/)).
 
+## Working Experience
+- *Education Engineer at Elastic (2019-current)*
+- *Teacher Assistant at National Tsing Hua University (2015-2019)*
+
 ## Education
-- *Information Systems and Applications (PhD Candidate, 2015-2019) - National Tsing Hua University, Hsinchu, Taiwan*
+- *Information Systems and Applications (PhD, 2015-2019) - National Tsing Hua University, Hsinchu, Taiwan*
 - Masters Degree in Information Systems and Applications (2013-2015) - National Tsing Hua University, Hsinchu, Taiwan
 - Bachelor's in Information Technology (2004-2008) - University of Belize, Belmopan, Belize
 

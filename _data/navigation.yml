@@ -16,7 +16,7 @@
   url: /projects/
 
 - title: DAIR.AI
-  url: https://medium.com/dair-ai
+  url: https://dair.ai
 #- title: Projects
 #  url: /projects/
 
@@ -26,17 +26,17 @@
 #- title: Courses
 #  url: /books/
 
-- title: NLP Overview 
+- title: NLP Overview
   url: https://nlpoverview.com/
 
-- title: 2018 NLP Highlights (PDF)
+- title: 2019 NLP Highlights (PDF)
   url: https://github.com/omarsar/nlp_highlights
 
 #- title: Speaking
 #  url: /books/
 
-- title: NLP Newsletter
-  url: /subscribe/
+#- title: NLP Newsletter
+#  url: /subscribe/
   #url: https://goo.gl/forms/zLiYBvLdsHo37Dei1
 
 #- title: Theme Setup
