@@ -12,13 +12,14 @@ image:
 
 
 ### Upcoming Talks and Events
-[ODSC Boston](https://odsc.com/speakers/applied-deep-learning-for-nlp-applications/)
+[ODSC Boston - 2020](https://odsc.com/speakers/applied-deep-learning-for-nlp-applications/)
 
 
 ### Past Selected Talks
 
 **[PyCon US 2019](https://www.youtube.com/watch?v=VBM1u-UIoI0)**
 
+\\
 **[LatinX in AI Coalition at NeurIPS](http://www.latinxinai.org/nips-2018-presenters) at NeurIPS conference in Montreal, Canada - Oral and poster presentation, December 8, 2018**
 
 \\
